@@ -33,6 +33,8 @@ JS 代码的执行，主要分为 2 个阶段：编译阶段、执行阶段
 ];
 ```
 
+<br>
+
 ## 语法分析 Parser
 
 将词法单元流 即上述的数组，转换成一个由元素逐级嵌套组成的、代表了程序语法结构的树；
@@ -70,6 +72,8 @@ JS 代码的执行，主要分为 2 个阶段：编译阶段、执行阶段
 <img src="https://mmbiz.qpic.cn/mmbiz_jpg/zewrLkrYfsOKp8lrAKmZtiaV5IyWTG5qPPiaPcoaE88vb8CGCjQicFVVxUDZpvdtC62lfOibOu87x3AOSHtfbfffpQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom: 50%;" />
 
 可以使用 [esprima](https://esprima.org/demo/parse.html#) 实时生成语法树~
+
+<br>
 
 ## 字节码生成
 
@@ -118,6 +122,8 @@ Handler Table (size = 0)
    例如：循环给一个对象添加属性时，假设属性是 INT 类型，则优先做 INT 类型的判断
 4. 可是对于 JS 从来就没有确定这么一说，前 99 个对象属性保持着 INT 类型，可能第 100 个就没有这个属性了，那么这时候 JIT 会认为做了一个错误的假设，并把优化代码丢掉，执行过程将会回到解释器/基线编译器，这一过程叫做**反优化**。
 
+<br>
+
 ## 作用域
 
 作用域是一套规则，用来管理引擎如何查找变量。
@@ -156,6 +162,8 @@ fn1();
 
 上面代码打印的结果是：`outer`，这是因为在编译阶段就已经确定了作用域，`fn` 是定义在全局作用域中的，它在自己内部找不到`myName` 就会去全局作用域中找，不会在 `fn1` 中查找
 
+<br><br>
+
 # 执行阶段
 
 ## 执行上下文
@@ -169,6 +177,8 @@ fn1();
 -   执行上下文的创建分为 2 个阶段创建：
     ① 创建阶段
     ② 执行阶段
+
+<br>
 
 ## 创建阶段
 
@@ -186,10 +196,14 @@ ExecutionContext = {
 }
 ```
 
+<br>
+
 ## This Binding
 
 在全局执行上下文中，this 指向全局对象。在浏览器中，this 指向 window 对象。
 在函数执行上下文中，this 的值取决于函数的调用方式。如果它被一个对象引用调用，那么 this 的值被设置为该对象，否则 this 的值被设置为全局对象或 `undefined`（严格模式下）
+
+<br>
 
 ## 词法环境 Lexical Environment
 
@@ -203,6 +217,8 @@ ExecutionContext = {
     ② 函数环境：用户在函数中定义的变量被存储在环境记录中。
     对外部环境的引用可以是全局环境，也可以是包含内部函数的外部函数环境
 -   注意：对于函数环境而言，[环境记录] 还包含 arguments 对象，包含了 [索引-传递给函数的参数] 映射 & 传递给函数的参数的数量
+
+<br>
 
 ## 变量环境 Variable Environment
 
@@ -275,6 +291,8 @@ FunctionExecutionContext = {
 仔细看上面：`a: <uninitialized>`、`c: undefined`。
 可知：`let a` 之前 `console.log(a)` 会得到 Uncaught ReferenceError: Cannot access 'a' before initialization
 
+<br>
+
 ## 为什么要有两个词法环境
 
 变量环境组件 (VariableEnvironment) 用来登记 `var` `function` 的声明；
@@ -318,6 +336,8 @@ foo();
 ① 如果在词法环境中的某个块中查找到了，就直接返回给 JS 引擎；
 ② 如果没有查找到，则继续在变量环境中查找
 
+<br>
+
 ## 执行栈 Execution Context Stack
 
 每个函数都会有自己的执行上下文，多个执行上下文就会以栈 (调用栈) 的方式来管理
@@ -344,3 +364,74 @@ a();
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/zewrLkrYfsOKp8lrAKmZtiaV5IyWTG5qPRIWe8Y1paDbKSnABVicich3kL8DuuzQTDGrquMUd4G6tiaz3u4IXQSyPg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
 
 作用域链就是在执行上下文创建阶段确定的。有了执行的环境，才能确定它应该和谁构成作用域链
+
+<br><br>
+
+# 页面加载的流程
+
+1. **创建** document 对象。解析 HTML 及其文本内容后，添加 Element 对象和 Text 节点到文档中
+   这个阶段的 **`document.readyState = 'loading'`**
+
+2. 如果遇到 `link` 标签引入外部 CSS 文件，浏览器会创建新线程加载 CSS 文件，同时继续解析文档（异步）
+
+3. ① 如果引入外部 JS 文件，且没有设置 `async`、`defer` 等操作，浏览器会加载 JS 文件，阻塞主线程，等 JS 文件加载、并执行完，再继续解析文档（同步）
+
+   ② 如果引入外部 JS 文件，且设置了 `async`、`defer` 等操作，浏览器会创建新线程加载 JS 文件，同时继续解析文档（异步）
+
+4. 如果遇到 `img`、`iframe` 等标签，浏览器会异步加载 `src`，同时继续解析文档（异步）
+
+5. 文档**解析**完成后，设置有 `defer` 的脚本会按顺序执行（同步）、此时的 **`document.readyState = 'interactive'`**
+
+   <u>document 对象触发 `DOMContentLoaded` 事件</u>，这标志着程序从 [同步脚本执行阶段] → [事件驱动阶段]
+
+6. 等所有异步的数据资源**加载**完后，**`document.readyState = 'complete'`**，<u>window 对象触发 `load` 事件</u>
+
+   从此，以异步响应方式处理用户输入、网络事件...
+
+简单来说：
+① **创建** document 对象，此时 `document.readyState = 'loading'`
+② 文档**解析**完成：此时 `document.readyState = 'interactive'`，document 对象触发 `DOMContentLoaded` 事件
+③ 文档**加载**完成：此时 `document.readyState = 'complete'`，window 对象触发 `load` 事件
+
+```js
+console.log("create", document.readyState); // create loading
+
+// DOM 解析完成
+document.addEventListener(
+    "DOMContentLoaded",
+    () => console.log("DOMContentLoaded", document.readyState) // DOMContentLoaded interactive
+);
+
+// 资源加载完
+window.onload = function () {
+    console.log("onload", document.readyState); // onload complete
+};
+
+// document.readyState 更新
+document.onreadystatechange = function () {
+    console.log("onreadystatechange", document.readyState);
+    // onreadystatechange interactive
+    // onreadystatechange complete
+};
+```
+
+<br>
+
+## 同步加载 JS
+
+-   浏览器会同步加载 JS 代码，以防 JS 操作 DOM 时出错
+
+-   浏览器加载 .html 时，如果遇到了 script 标签，会停下来 先把 script 标签里的 JS 执行完
+    如果 script 标签里 有外部文件，那就必须等待其下载、执行，然后浏览器才会继续往下执行
+
+    如果网速较慢，JS 文件的下载就会阻止后面代码的执行
+
+<br>
+
+## 重构 & 重绘
+
+DOM 树生成后，会等待 CSS 树生成，之后再等 Render 树生成，最后才绘制页面
+
+我们可以简单地理解为：
+reflow 重构是结构发生了变化，进而影响页面布局。eg：元素的宽高...（效率较低，需要生成新的 DOM 树，再生成新的 Render 树）
+repaint 重绘是样式发生了变化，不会影响页面布局。eg：元素的颜色...（效率较搞）
