@@ -1,0 +1,13 @@
+{
+    "name": "superman-note",
+    "version": "1.0.0",
+    "description": "Personal study notes, welcome to exchange correction~",
+    "keywords": [
+        "frontend",
+        "backend",
+        "study",
+        "notes"
+    ],
+    "author": "superman",
+    "license": "MIT"
+}
