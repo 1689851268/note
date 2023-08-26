@@ -6,7 +6,7 @@ JS 代码的执行，主要分为 2 个阶段：编译阶段、执行阶段
 
 将语句分解成对编程语言来说有意义的代码块，这些代码块被称为词法单元
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/zewrLkrYfsOKp8lrAKmZtiaV5IyWTG5qP5pWEg7BXaoiaprKhNFT2ZPpekOxZM6rM5N7CrOvUSjRKkibIxSGicMCKw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom: 33%;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom: 33%;" />
 
 ```js
 [
@@ -69,7 +69,7 @@ JS 代码的执行，主要分为 2 个阶段：编译阶段、执行阶段
 
 在此过程中，如果源代码不符合语法规则，则会终止，并抛出 “语法错误”
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/zewrLkrYfsOKp8lrAKmZtiaV5IyWTG5qPPiaPcoaE88vb8CGCjQicFVVxUDZpvdtC62lfOibOu87x3AOSHtfbfffpQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom: 50%;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom: 50%;" />
 
 可以使用 [esprima](https://esprima.org/demo/parse.html#) 实时生成语法树~
 
@@ -141,7 +141,7 @@ function fn() {
 
 在解析时就会确定作用域：
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/zewrLkrYfsOKp8lrAKmZtiaV5IyWTG5qPMCwA8nJ0ebVOcIic7lg95hofiaT76EWKDqVy6y573Qceys6Xu6UNksPw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:40%;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:40%;" />
 
 > #### 词法作用域
 
@@ -325,7 +325,7 @@ function foo() {
 foo();
 ```
 
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/zewrLkrYfsOKp8lrAKmZtiaV5IyWTG5qPibicPvd5coUBYiaiakrcbDB7wjv2E7nrYkc9AgbBQlbxOXEgaibiadicyJSCw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:33%;" />
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:33%;" />
 
 可以看出，当进入函数的作用域块时，作用域块中通过 let 声明的变量，会被存放在词法环境的一个单独的区域中，这个区域中的变量并不影响作用域块外面的变量，比如在作用域外面声明了变量 b，在该作用域块内部也声明了变量 b，当执行到作用域内部时，它们都是独立的存在
 

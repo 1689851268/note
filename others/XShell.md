@@ -5,7 +5,7 @@
 
 # FileZilla
 
-<img src="picture/XShell/image-20220411004823366.png" alt="image-20220411004823366" style="zoom:50%;" />
+<img src="picture/image-20220411004823366.png" alt="image-20220411004823366" style="zoom:50%;" />
 
 # nginx
 
@@ -16,10 +16,10 @@
 
 > #### 使我们访问服务器 ip 时，能访问到项目文件
 
-<img src="picture/XShell/image-20220411004418562.png" alt="image-20220411004418562" style="zoom:50%;" />
+<img src="picture/image-20220411004418562.png" alt="image-20220411004418562" style="zoom:50%;" />
 
 > #### 项目数据来源 `http://39.98.123.211` 
 
 - 编辑文件 nignx.conf：`vim nignx.conf`
 
-<img src="picture/XShell/image-20220411004537235.png" alt="image-20220411004537235" style="zoom:50%;" />
+<img src="picture/image-20220411004537235.png" alt="image-20220411004537235" style="zoom:50%;" />
