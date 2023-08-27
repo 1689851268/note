@@ -10,34 +10,32 @@
    ② 远程分支的本地副本：远程分支代码信息存储在 .git/refs/remotes 目录下
 4. 远程仓库
 
-
 > #### 常用的 Linux 命令：
 
-- `ls`：查看当前目录下的文件(夹)
-  `ls -a`：查看当前目录下的文件(夹)，包括隐藏文件(夹)
-  `ls -l`：查看当前目录下的文件(夹)的详细信息
-- `pwd`：查看当前路径
-- `mkdir XXX`：创建目录 - `mkdir demo`
-- `touch XXX`：创建文件 - `touch index.js`
-- `cd XXX`：进入指定目录 - `cd ..`
-- `cp XXX XXX`：拷贝文件 - `cp old.js new.js`
-  `cp -r XXX XXX`：拷贝文件夹 - `cp -r oldDir newDir`
-- `mv XXX XXX`：移动文件、并修改文件名 - `mv a.js bDir/b.js`
-- `rm XXX`：删除文件 - `rm a.js`
-  `rm -r XXX`：删除文件夹 - `rm -r aDir`
-- `cat XXX`：查看文件 - `cat a.js`
-- `vim XXX`：编辑文件 -  `vim a.js`（ `i` 开始编写、`esc` 完成编写、`:wq + 回车` 保存并退出 ）
-- `clear`：清屏
+-   `ls`：查看当前目录下的文件(夹)
+    `ls -a`：查看当前目录下的文件(夹)，包括隐藏文件(夹)
+    `ls -l`：查看当前目录下的文件(夹)的详细信息
+-   `pwd`：查看当前路径
+-   `mkdir XXX`：创建目录 - `mkdir demo`
+-   `touch XXX`：创建文件 - `touch index.js`
+-   `cd XXX`：进入指定目录 - `cd ..`
+-   `cp XXX XXX`：拷贝文件 - `cp old.js new.js`
+    `cp -r XXX XXX`：拷贝文件夹 - `cp -r oldDir newDir`
+-   `mv XXX XXX`：移动文件、并修改文件名 - `mv a.js bDir/b.js`
+-   `rm XXX`：删除文件 - `rm a.js`
+    `rm -r XXX`：删除文件夹 - `rm -r aDir`
+-   `cat XXX`：查看文件 - `cat a.js`
+-   `vim XXX`：编辑文件 - `vim a.js`（ `i` 开始编写、`esc` 完成编写、`:wq + 回车` 保存并退出 ）
+-   `clear`：清屏
 
 <br><br>
 
 # 安装 & 配置
 
-- 打开[Git官网](https://git-scm.com/downloads)下载，傻瓜式安装即可
-- `git -v`：查看 Git 版本
+-   打开[Git 官网](https://git-scm.com/downloads)下载，傻瓜式安装即可
+-   `git -v`：查看 Git 版本
 
 <br>
-
 
 ## 全局配置 Git
 
@@ -50,7 +48,7 @@ git config --global user.name <YourName>
 git config --global user.email <email@example.com>
 ```
 
-2.   让 git 区分大小写：
+2.  让 git 区分大小写：
 
 ```bash
 git config --global core.ignorecase false
@@ -64,14 +62,14 @@ git config --global core.ignorecase false
 
 ## 配置 SSH
 
-- 本地生成 ssh 公钥，并配置到代码托管平台上，即可使用 [ssh 链接] 免密码 push、pull
+-   本地生成 ssh 公钥，并配置到代码托管平台上，即可使用 [ssh 链接] 免密码 push、pull
 
 ```shell
 ssh-keygen -t rsa -C "<邮箱>"
 ```
 
-- 代码托管平台有 Github、Gitlab、Gitee，上面的 `<邮箱>` 为你在该平台上注册的邮箱
-- rsa：非对称加密协议
+-   代码托管平台有 Github、Gitlab、Gitee，上面的 `<邮箱>` 为你在该平台上注册的邮箱
+-   rsa：非对称加密协议
 
 ```js
 PS E:\combat> ssh-keygen -t rsa -C "<邮箱>"
@@ -92,8 +90,8 @@ The key's randomart image is:
 +----[SHA256]-----+
 ```
 
-- 进入保存密钥的文件夹 `cd ~/.ssh`、查看公钥  `cat id_rsa.pub`
-  将获取到的公钥配置到你的代码托管平台即可
+-   进入保存密钥的文件夹 `cd ~/.ssh`、查看公钥 `cat id_rsa.pub`
+    将获取到的公钥配置到你的代码托管平台即可
 
 <br><br>
 
@@ -103,19 +101,19 @@ The key's randomart image is:
    `<url>`：远程库上的 HTTPS / SSH 的地址
 2. `git clone <url> -b <指定分支名>`：克隆代码，并自动切到指定分支
 
-- [克隆代码] 会：
-  ① 初始化本地仓库
-  ② 把整个项目文件下载下来
-  ③ 自动配置 `origin` 为远程库的别名
+-   [克隆代码] 会：
+    ① 初始化本地仓库
+    ② 把整个项目文件下载下来
+    ③ 自动配置 `origin` 为远程库的别名
 
 <br><br>
 
 # git init
 
-- 用于为当前目录创建一个 git 仓库
-- 初始化本地库后，当前目录下会多出一个**隐藏目录** .git，这个目录是 Git 用来管理本地库的，不要随意改动
-- 不过本地 init 的仓库无法与远端交互，所以还需去 github / gitlab / gitee 创建一个远端仓库 并关联
-- 关联远端仓库使用 `git remote`
+-   用于为当前目录创建一个 git 仓库
+-   初始化本地库后，当前目录下会多出一个**隐藏目录** .git，这个目录是 Git 用来管理本地库的，不要随意改动
+-   不过本地 init 的仓库无法与远端交互，所以还需去 github / gitlab / gitee 创建一个远端仓库 并关联
+-   关联远端仓库使用 `git remote`
 
 > #### .gitignore 文件
 
@@ -123,7 +121,7 @@ The key's randomart image is:
 
 ```sh
 # 所有以 .md 结尾的文件
-*.md  
+*.md
 
 # lib.a 不能被忽略
 !lib.a
@@ -167,7 +165,7 @@ doc/**/*.pdf
    如果只有一个远程库，则 `<远程库>` 可以省略
    如果远程不存在该分支，则会被新建
 
-   `git push origin :<远程分支名>`：仅省略本地分支名，表示推送一个空的本地分支到远程分支；相当于删除指定的远程分支
+    `git push origin :<远程分支名>`：仅省略本地分支名，表示推送一个空的本地分支到远程分支；相当于删除指定的远程分支
 
 2. `git push origin --delete <远程分支名>`：删除指定的远程分支；会把与其关联的本地分支也删除掉
 
@@ -189,8 +187,8 @@ doc/**/*.pdf
 1. `git fetch <远程库>`：取回所有分支的更新
 2. `git fetch <远程库> <分支名>`：取回指定分支的更新
 
-- 如果只有一个远程库，则 `<远程库>` 可以省略
-- 在本地主机上使用取回的更新，需要用 “远程主机名/分支名” 的形式读取
+-   如果只有一个远程库，则 `<远程库>` 可以省略
+-   在本地主机上使用取回的更新，需要用 “远程主机名/分支名” 的形式读取
 
 <br><br>
 
@@ -228,9 +226,9 @@ doc/**/*.pdf
 4. `git commit --amend`：与上一次提交合并，并修改提交的信息 (打开编辑器修改)
    `i`-开始编写修改的信息、 `esc`-完成编写、`:wq + 回车`-保存并退出
 
-   `git commit --amend -m "my description"`：与上一次提交合并，并修改提交的信息 (直接重写)
+    `git commit --amend -m "my description"`：与上一次提交合并，并修改提交的信息 (直接重写)
 
-   `git commit --amend --no-edit`：与上一次提交合并，不修改提交的信息
+    `git commit --amend --no-edit`：与上一次提交合并，不修改提交的信息
 
 <br><br>
 
@@ -247,7 +245,7 @@ eg：`git merge bugfix` - 将 bugfix 合并到当前分支上
 >
 > 2. 如果没有冲突：会显示 past-forward 快照
 >
->    如果有冲突：会显示 conflict 冲突；**需要手动解决冲突，然后提交解决冲突后的代码**
+>     如果有冲突：会显示 conflict 冲突；**需要手动解决冲突，然后提交解决冲突后的代码**
 >
 > ```sh
 > git add .
@@ -290,14 +288,14 @@ eg：`git merge bugfix` - 将 bugfix 合并到当前分支上
 2. `git reset --soft <target>`：仅回退版本库的提交，不修改暂存区
 3. `git reset --hard <traget>`：回退版本库的提交，并将修改更新到暂存区和工作区
 
-- `<target>`：`HEAD^` / `HEAD~`，有多少个 `^` / `~` 就回退多少个版本
+-   `<target>`：`HEAD^` / `HEAD~`，有多少个 `^` / `~` 就回退多少个版本
 
-  多个  `^` / `~` 可以简写：`HEAD~~~~~` / `HEAD^^^^^` → `HEAD~10`
-  注意：`^` 后面不可以跟数字，`~` 后面才可以
+    多个 `^` / `~` 可以简写：`HEAD~~~~~` / `HEAD^^^^^` → `HEAD~10`
+    注意：`^` 后面不可以跟数字，`~` 后面才可以
 
-- `<target>`：版本 id，表示回退到指定版本
+-   `<target>`：版本 id，表示回退到指定版本
 
-  版本 id 不需要写全，能唯一标识指定版本即可
+    版本 id 不需要写全，能唯一标识指定版本即可
 
 <br><br>
 
@@ -323,8 +321,8 @@ eg：`git merge bugfix` - 将 bugfix 合并到当前分支上
 3. `git rm <file_1> --cache`：删除 [暂存区] 的指定文件
    前提是：[工作区文件] & [暂存区文件] 一样
 
-- 可以使用 `-f` 暴力删除
-- 可以使用 `-r` 递归删除
+-   可以使用 `-f` 暴力删除
+-   可以使用 `-r` 递归删除
 
 <br><br>
 
@@ -392,7 +390,7 @@ eg：`git merge bugfix` - 将 bugfix 合并到当前分支上
 
 4. 推送标签：`git push origin tagName`
 
-   推送所有本地标签：`git push origin --tags`
+    推送所有本地标签：`git push origin --tags`
 
 5. 列出所有标签：`git tag`
 
@@ -414,9 +412,9 @@ eg：`git merge bugfix` - 将 bugfix 合并到当前分支上
 6. 将代码同步到本地仓库：`git commit -m "description"`
 7. 首次将代码 push 到远程库：`git push -u origin feature ` ( push 代码并建立联系 )
 8. 后续将代码 push 到远程库：`git push`
-   1. 如果在远程库上有代码更新，会 push 失败
-      此时 应当先同步最新代码：`git pull`
-   2. 若有代码冲突，则手动解决，再 push；若无代码冲突，即可直接 push
+    1. 如果在远程库上有代码更新，会 push 失败
+       此时 应当先同步最新代码：`git pull`
+    2. 若有代码冲突，则手动解决，再 push；若无代码冲突，即可直接 push
 9. 当我们开发完所有需求后，会创建一个测试分支 test；我们会把代码合并到这个测试分支上，然后部署到测试环境进行测试
 10. 测试无误后，我们再把代码合并到 master 分支并部署；
     一般需要先在当前分支合并 master 分支，解决冲突并提交后，再在 master 分支上合并当前分支
