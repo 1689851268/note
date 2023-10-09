@@ -1,10 +1,3 @@
-/*
- * @Description:
- * @Author: superman
- * @Date: 2022-03-07 10:20:56
- * @LastEditors: superman
- * @LastEditTime: 2022-03-25 20:01:00
- */
 let arr = [0, 1, 0, 1, 0];
 
 const isPlace = arr => {
