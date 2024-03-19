@@ -8,6 +8,8 @@
 6. 对用 truncate table 删除数据的表上增加数据时，要使用 update statistics 来维护索引信息。
 7. 如果有 rollback 语句，delete 操作将被撤销，但 truncate 不会撤销。
 
+<br><br>
+
 # truncate & drop & delete
 
 1. truncate 和 delete 只是删除表的数据，drop 语句将删除表的结构、被依赖的约束(constraint)、触发器(trigger)、索引(index)；依赖于该表的存储过程 / 函数将保留，但是变为 invalid 状态。
@@ -19,3 +21,5 @@
 7. drop 一般用于删除整体数据 eg:表、模式、索引、视图、完整性限制等... delete 用户删除局部性数据 eg:表中的某一元组
 8. drop 把表结构都删了；delete 只是把数据清掉
 9. 当不再需要该表时，用 drop；当你仍要保留该表，但要删除所有记录时，用 truncate；当要删除部分记录时，使用 delete
+
+<br>
