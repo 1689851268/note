@@ -19,3 +19,29 @@ one 表示 "任何人"：
 除了 one，**you** 和 **people** 也可以用来泛指人，但它们听起来就不如 one 正式和严肃。
 
 <br><br>
+
+1. bridge the/a gap (between A and B)：弥合（A 和 B 之间的）差距
+
+<br><br>
+
+给出忠告和建议：
+
+1. `It might be a good idea to ...`：...可能是个好主意
+
+It might be a good idea to reserve a seat. 预订座位可能是个好主意。
+
+It might be a good idea just to follow your heart and stay open to all possibilities. 跟随你的内心、对所有可能性保持开放可能是个好主意。
+
+1. `Have you thought about/considered/try doing ...?`：你有没有考虑过/尝试过做...？
+
+Have you thought about trying things you're truly interested in? 你有没有考虑过尝试你真正感兴趣的事情？
+
+Have you considered changing to a different course? 你有没有考虑过换一个不同的课程？
+
+Have you tried doing something different? 你有没有尝试过做一些不同的事情？
+
+3. `Why don't you ...?` / `Wht not ...?`：为什么不...？
+
+Why don't you get an animal that's easier to take care of? 为什么不养一只更容易照顾的动物？
+
+Why not leave it until another day? 为什么不把它留到另一天？
