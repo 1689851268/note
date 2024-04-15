@@ -45,3 +45,15 @@ Have you tried doing something different? 你有没有尝试过做一些不同�
 Why don't you get an animal that's easier to take care of? 为什么不养一只更容易照顾的动物？
 
 Why not leave it until another day? 为什么不把它留到另一天？
+
+<br><br>
+
+我们可以在不同语境里用 `the best` 表示 "最好的"。
+
+在它之后我们可以用 `that (可省略) + 现在完成时`，表示 "到目前为止最好的"：
+Your parents are great cooks, that was the best meal that I've ever had. 你父母是很棒的厨师，那是我吃过的最好的一顿饭。
+
+它还可以和介词短语连用（in the class, of our company 等），表示 "在...中最好的"：
+She's the best student in the class. 她是班上最好的学生。
+
+<br><br>
