@@ -57,3 +57,11 @@ Your parents are great cooks, that was the best meal that I've ever had. 你父�
 She's the best student in the class. 她是班上最好的学生。
 
 <br><br>
+
+1. 形容词比较级 + 动名词，表示 "比...更..."。
+
+Traveling with friends is more interesting than traveling alone. 和朋友一起旅行比一个人旅行更有趣。
+
+Some people feel that spending time alone is more relaxing than going to a party. 有些人觉得独自度过时间比参加聚会更放松。
+
+<br><br>
