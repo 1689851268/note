@@ -69,3 +69,16 @@ Some people feel that spending time alone is more relaxing than going to a party
 a head of broccoli 一颗西兰花
 
 <br><br>
+
+-   to replace A with B：用 B 替换 A
+-   A replace B as sth：A 替代 B 成为某物
+
+<br>
+
+-   afford to do sth：有能力做某事
+
+<br>
+
+-   be in the mood for sth：想要做某事
+
+<br>
