@@ -81,4 +81,16 @@ a head of broccoli 一颗西兰花
 
 -   be in the mood for sth：想要做某事
 
-<br>
+<br><br>
+
+-   i world recommend + that + 主语 + 动词原形：我建议某人做某事
+
+这里 world 用来弱化语气，表委婉。类似的可搭配动词还有 say、advise、imagine、suggest、think、believe 等。一般在非正式场景下，可以使用 say ，会随意一些。
+
+-   i world recommend/say + 名词/动名词：我建议...
+
+-   what would you recommend? 你会推荐什么？
+
+i would 可缩写为 i'd ~
+
+<br><br>
