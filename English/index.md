@@ -94,3 +94,13 @@ a head of broccoli 一颗西兰花
 i would 可缩写为 i'd ~
 
 <br><br>
+
+-   A is essential for/to B：A 对 B 是必不可少的
+
+-   it is essential (that) + 完整句子
+-   it is essential to do sth
+
+<br>
+
+-   follow the rules 遵守规则
+-   break the rules 违反规则
