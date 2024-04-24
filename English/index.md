@@ -104,3 +104,24 @@ i would 可缩写为 i'd ~
 
 -   follow the rules 遵守规则
 -   break the rules 违反规则
+
+<br><br>
+
+1. 可以使用 much、so much、a great deal、a lot、far 等词来加强比较级
+
+2. 当形容词比较级和部分动词（be、taste、look 等）搭配时，我们可以在形容词比较级前加 much / so much 来加强比较级的程度
+
+eg：This cheese cake tastes better than the last one. 这个奶酪蛋糕比上一个好吃。
+This cheese cake tastes **much** better than the last one. 这个奶酪蛋糕比上一个好吃多了。
+This cheese cake tastes **so much** better than the last one. 这个奶酪蛋糕比上一个好吃太多了。
+
+3. 可以在形容词比较级前加 a little bit 之类的状语来削弱比较级的强度，表示 "稍微"
+
+eg：This cheese cake tastes **a little bit** better than the last one. 这个奶酪蛋糕比上一个好吃一点点。
+
+<br>
+
+-   patriarchal / patriarchy
+-   matriarchal / matriarchy
+
+<br><br>
