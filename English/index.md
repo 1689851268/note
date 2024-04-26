@@ -125,3 +125,18 @@ eg：This cheese cake tastes **a little bit** better than the last one. 这个�
 -   matriarchal / matriarchy
 
 <br><br>
+
+-   be eager to do sth：渴望做某事
+-   be eager for sth：渴望某事
+
+<br>
+
+-   take / cast / throw a glance at sth：看了某事一眼
+-   glance around sth：环顾某物
+-   at first glance：乍一看
+
+<br>
+
+-   there's no comparison between A and B：A 和 B 没法比较
+
+<br><br>
