@@ -115,7 +115,7 @@ eg：This cheese cake tastes better than the last one. 这个奶酪蛋糕比上�
 This cheese cake tastes **much** better than the last one. 这个奶酪蛋糕比上一个好吃多了。
 This cheese cake tastes **so much** better than the last one. 这个奶酪蛋糕比上一个好吃太多了。
 
-3. 可以在形容词比较级前加 a little bit 之类的状语来削弱比较级的强度，表示 "稍微"
+3. 可以在形容词比较级前加 a little、a bit、a little bit 之类的状语来削弱比较级的强度，表示 "稍微"
 
 eg：This cheese cake tastes **a little bit** better than the last one. 这个奶酪蛋糕比上一个好吃一点点。
 
