@@ -140,3 +140,21 @@ eg：This cheese cake tastes **a little bit** better than the last one. 这个�
 -   there's no comparison between A and B：A 和 B 没法比较
 
 <br><br>
+
+短语动词：动词 (get / take / put / ...) + 介词 (on / off / up / down / in / out / ...)
+
+有时短语动词不带任何宾语：
+eg：I usually **get up** at 7 o'clock. 我通常七点起床。
+eg：My plane is about to **take off**. 我的飞机即将起飞。
+
+有时在短语动词中间或之后会有宾语：
+eg：I'm going to **pick** my kids **up** from school. 我要去接孩子们放学。
+eg：He **took off** his hat. 他脱掉了帽子。
+eg：She **put on** her shoes. 她穿上了鞋子。
+
+当我们用代词替代宾语时，代词要放在短语动词中间：
+eg：I'm going to **pick them up**. 我要去接他们。
+eg：He **took it off**. 他脱掉了它。
+eg：She **put them on**. 她穿上了它们。
+
+<br><br>
