@@ -109,13 +109,11 @@ i would 可缩写为 i'd ~
 
 1. 可以使用 much、so much、a great deal、a lot、far 等词来加强比较级
 
-2. 当形容词比较级和部分动词（be、taste、look 等）搭配时，我们可以在形容词比较级前加 much / so much 来加强比较级的程度
-
 eg：This cheese cake tastes better than the last one. 这个奶酪蛋糕比上一个好吃。
 This cheese cake tastes **much** better than the last one. 这个奶酪蛋糕比上一个好吃多了。
 This cheese cake tastes **so much** better than the last one. 这个奶酪蛋糕比上一个好吃太多了。
 
-3. 可以在形容词比较级前加 a little、a bit、a little bit 之类的状语来削弱比较级的强度，表示 "稍微"
+2. 可以在形容词比较级前加 a little、a bit、a little bit 之类的状语来削弱比较级的强度，表示 "稍微"
 
 eg：This cheese cake tastes **a little bit** better than the last one. 这个奶酪蛋糕比上一个好吃一点点。
 
@@ -156,5 +154,27 @@ eg：She **put on** her shoes. 她穿上了鞋子。
 eg：I'm going to **pick them up**. 我要去接他们。
 eg：He **took it off**. 他脱掉了它。
 eg：She **put them on**. 她穿上了它们。
+
+<br><br>
+
+-   skinny jeans 紧身牛仔裤
+-   skinny latte 脱脂拿铁
+-   skinny girl 瘦女孩
+
+<br>
+
+-   be gentle with sb：对某人温柔
+
+<br>
+
+-   have a duty to do sth：有责任做某事
+
+<br>
+
+-   bark to sb：对某人吠叫
+
+<br>
+
+-   keep an eye on sb/sth：照看某人/某物
 
 <br><br>
