@@ -178,3 +178,11 @@ eg：She **put them on**. 她穿上了它们。
 -   keep an eye on sb/sth：照看某人/某物
 
 <br><br>
+
+-   make up 化妆、编造
+
+-   take off 起飞、脱下、脱离
+
+-   take it over 认真考虑
+
+<br><br>
