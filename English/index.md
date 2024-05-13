@@ -186,3 +186,32 @@ eg：She **put them on**. 她穿上了它们。
 -   take it over 认真考虑
 
 <br><br>
+
+-   watch out for sb/sth：留心某人/某物
+
+-   it is against the law to do sth：做某事是违法的
+
+<br>
+
+-   commit v 犯罪
+-   crime n 犯罪
+-   criminal n 罪犯; adj 犯罪的
+
+<br>
+
+-   theft n 偷窃
+-   thief n 小偷
+-   steal v 偷
+
+<br>
+
+-   break the law 违法
+-   commit a crime 犯罪
+
+commit 也可以直接加犯罪类型, commit theft 犯窃盗罪
+
+<br>
+
+-   defend sb against/from sth：保护某人免受某事
+
+<br><br>
