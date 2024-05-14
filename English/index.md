@@ -213,5 +213,23 @@ commit 也可以直接加犯罪类型, commit theft 犯窃盗罪
 <br>
 
 -   defend sb against/from sth：保护某人免受某事
+-   defend over sth：为...辩护
+
+<br><br>
+
+道歉三步骤：
+
+1. 表示歉意：
+    1. I'm sorry (that) ...
+    2. I'm sorry for doing sth.
+    3. I feel awful.
+2. 给出解释：
+    1. In my defense, ... （带有调侃幽默的意思）
+3. 做出保证：
+    1. It won't happen again.
+
+<br>
+
+-   stand sb up：爽约
 
 <br><br>
