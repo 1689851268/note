@@ -233,3 +233,12 @@ commit 也可以直接加犯罪类型, commit theft 犯窃盗罪
 -   stand sb up：爽约
 
 <br><br>
+
+-   out of sorts：不舒服
+
+<br>
+
+-   show/express appreciation to sb: 对某人表示感激
+-   show/express appreciation for sth: 对某事表示感激
+
+<br><br>
