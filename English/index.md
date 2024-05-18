@@ -242,3 +242,29 @@ commit 也可以直接加犯罪类型, commit theft 犯窃盗罪
 -   show/express appreciation for sth: 对某事表示感激
 
 <br><br>
+
+在**数量限定词**之前，我们通常可以加上表示程度的**副词**，用来修饰和限制对应的限定词。
+
+-   数量限定词有：all、every、a few/a little、few/little...
+-   可修饰这类限定词的副词有：almost、nearly、only、very...
+
+<br>
+
+nearly/almost 是 "几乎、将近" 的意思，通常用来修饰 all、every：
+eg：Almost all the eggs were broken. 几乎所有的鸡蛋都碎了。
+eg：I've been out nearly every night this week. 这周我几乎每晚都出去。
+
+<br>
+
+only 是 "只、仅" 的意思，通常用来修饰 a little、a few：
+eg：Only a few people turned up for the meeting. 只有几个人参加了会议。
+eg：I can speak only a little Spanish. 我只会一点点西班牙语。
+注意：a few 后面加名词复数、a little 后面加不可数名词。
+
+<br>
+
+very 是 "非常" 的意思，通常用来修饰 little、few，表否定意义：
+eg：I have very little money left. 我剩下的钱非常少。
+eg：Very few people succeed. 很少有人成功。
+
+<br><br>
