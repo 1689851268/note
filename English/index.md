@@ -268,3 +268,13 @@ eg：I have very little money left. 我剩下的钱非常少。
 eg：Very few people succeed. 很少有人成功。
 
 <br><br>
+
+表示惊讶：
+
+1. Can you believe / imagine (that) ...? 你能相信 / 想象...吗？
+
+2. Are you for real? 你是认真的吗？
+
+3. you gotta be kidding me. 你一定在开玩笑。
+
+<br><br>
