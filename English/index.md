@@ -278,3 +278,15 @@ eg：Very few people succeed. 很少有人成功。
 3. you gotta be kidding me. 你一定在开玩笑。
 
 <br><br>
+
+-   inform sb of/about sth：通知某人某事
+
+-   inform sb that ...：通知某人...
+
+<br>
+
+-   take a chance on sth：碰碰运气
+
+-   take a chance and do sth：冒险做某事
+
+<br><br>
