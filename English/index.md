@@ -290,3 +290,17 @@ eg：Very few people succeed. 很少有人成功。
 -   take a chance and do sth：冒险做某事
 
 <br><br>
+
+**主语动态**句子：My grandmother wrote this book in 1960. 我奶奶在 1960 年写了这本书。
+在该句子中，主语是 my grandmother，宾语是 this book。
+
+改成**被动语态**，我们把**宾语**提前，接着使用 be 动词的恰当形式 (am/is/are/was/were) + 动词过去分词 (written/baked/taken 等)：
+This book was written in 1960. 这本书是在 1960 年写的。
+
+注意，被动语态中，我们通常不需要强调动作的执行者。如果我们想在被动语态的句子中强调发出动作的执行者，可以使用 by + 动作的执行者：
+This book was written by my grandmother in 1960. 这本书是我奶奶在 1960 年写的。
+
+eg：Your horse ate the apples. 你的马吃了苹果。
+被动语态：The apples were eaten by your horse. 苹果被你的马吃了。
+
+<br><br>
