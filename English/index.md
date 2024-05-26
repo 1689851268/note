@@ -304,3 +304,18 @@ eg：Your horse ate the apples. 你的马吃了苹果。
 被动语态：The apples were eaten by your horse. 苹果被你的马吃了。
 
 <br><br>
+
+有些动词后可以接两个宾语，一个**间接宾语**、一个**直接宾语**。
+eg：The teacher gave the student a balloon. 老师给了学生一个气球。
+上例中，"气球" 是 "给" 这个动作的直接承受者，所以是**直接宾语**；"学生" 是 "给" 这个动作的方向/木匾，所以是**间接宾语**。
+
+<br>
+
+双宾语结构也可以用在**被动句**中。
+eg：Someone read the child a story. 某人给孩子读了一个故事。
+上例中，"故事" 是直接宾语，"孩子" 是间接宾语。
+
+如果我们想强调间接宾语，可以将其提前：
+eg：The child was read a story. 孩子被读了一个故事。
+
+<br><br>
