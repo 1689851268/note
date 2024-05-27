@@ -319,3 +319,12 @@ eg：Someone read the child a story. 某人给孩子读了一个故事。
 eg：The child was read a story. 孩子被读了一个故事。
 
 <br><br>
+
+-   be experienced in sth：在某方面有经验
+
+-   approve 为不及物动词，需要和 of 连用，表示 "赞成、同意"。
+    eg：I approve of your decision. 我赞成你的决定。
+
+-   permit doing sth：允许做某事
+
+<br><br>
