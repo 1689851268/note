@@ -328,3 +328,18 @@ eg：The child was read a story. 孩子被读了一个故事。
 -   permit doing sth：允许做某事
 
 <br><br>
+
+-   require sb to do sth：要求某人做某事
+
+<br>
+
+-   skill set 技能组
+
+<br>
+
+-   by profession：以...为职业
+    eg：He's a teacher by profession. 他以教师为职业。
+-   sb join / enter / go into the profession of ...：某人从事...职业
+    eg：She joined the profession of teaching. 她从事教学职业。
+
+<br><br>
