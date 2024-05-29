@@ -343,3 +343,13 @@ eg：The child was read a story. 孩子被读了一个故事。
     eg：She joined the profession of teaching. 她从事教学职业。
 
 <br><br>
+
+by 用于表明动作的发出者
+
+eg: I was just informed by the head of our office. 我刚刚被我们办公室的负责人通知了。
+
+eg: You will be contacted by your new director. 你将被你的新主管联系。
+
+但是，为了更符合中文的表达习惯，我们通常不会翻译为被动结果
+
+<br>
