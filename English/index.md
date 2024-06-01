@@ -352,4 +352,31 @@ eg: You will be contacted by your new director. 你将被你的新主管联系�
 
 但是，为了更符合中文的表达习惯，我们通常不会翻译为被动结果
 
+<br><br>
+
+-   expert in sth：在某方面的专家
+-   expert at doing sth：在做某事上的专家
+
 <br>
+
+-   have a habit of doing sth：有...的习惯
+
+<br>
+
+-   mention sth to sb：向某人提到某事
+
+<br>
+
+-   avoid doing sth：避免做某事
+
+<br>
+
+-   advise sb to do sth：建议某人做某事
+-   advise sb against doing sth：建议某人不要做某事
+
+<br><br>
+
+-   have control of / over sth：控制某事
+-   lose control of / over sth：失去对某事的控制
+
+<br><br>
