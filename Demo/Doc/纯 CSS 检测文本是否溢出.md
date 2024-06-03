@@ -1,0 +1,332 @@
+# CSS 滚动驱动动画
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .txt {
+                width: 200px;
+                height: 4.5rem;
+                line-height: 1.5rem;
+                border: 1px solid #000;
+                margin: 20px;
+                overflow: auto;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="txt">
+            欢迎关注前端侦探，这里有一些有趣的、你可能不知道的HTML、CSS、JS小技巧技巧。欢迎关注前端侦探，这里有一些有趣的、你可能不知道的HTML、CSS、JS小技巧技巧。欢迎关注前端侦探，这里有一些有趣的、你可能不知道的HTML、CSS、JS小技巧技巧。
+        </div>
+        <div class="txt">欢迎关注前端侦探</div>
+    </body>
+</html>
+```
+
+<br>
+
+添加动画，在滚动时慢慢改变文本的颜色：
+
+```css
+.txt {
+    animation: check;
+    animation-timeline: scroll(self);
+}
+
+@keyframes check {
+    to {
+        color: #9747ff;
+    }
+}
+```
+
+这个 `scroll(self)` 里头的 `self` 表示监听自身滚动，默认是最近的祖先滚动容器，效果是这样的
+
+<br>
+
+接着激进一点，我们在动画中把起始点都设置成一样，这样还没开始滚动就自动变色了：
+
+```css
+@keyframes check {
+    from,
+    to {
+        color: #9747ff;
+    }
+}
+```
+
+这样即使还没开始滚动，也能提前知道是否可滚动了
+
+<br>
+
+然后，我们可以设置超出隐藏，也就是让滚动容器 "不能滚动"：
+
+```css
+.txt {
+    overflow: hidden;
+}
+```
+
+CSS 滚动驱动动画仍然可以被触发。
+
+尝试了一下，只要不是 `overflow: visible`，CSS 都认为是 "可滚动" 的，即 "溢出" 状态。
+
+最后，我们将文本设置成超出显示省略号：
+
+```css
+.txt {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+```
+
+<br><br>
+
+# CSS 样式查询
+
+我们可以给文本加一个 CSS 变量，就叫做 `--truncation` 吧，表示截断：
+
+```css
+.txt {
+    --truncation: false;
+}
+```
+
+然后在滚动驱动动画中改变这个变量：
+
+```css
+@keyframes check {
+    from,
+    to {
+        color: #9747ff;
+        --truncation: true;
+    }
+}
+```
+
+这样一来，滚动驱动动画执行的时候，这个变量也被赋值了。
+
+最后我们就可以查询这个样式，给子元素设置样式了，这里我们就用伪元素代替。
+
+```css
+.txt {
+    position: relative;
+}
+
+@container style(--truncation: true) {
+    .txt::after {
+        content: '';
+        position: absolute;
+        inset: 2px;
+        border: 1px solid red;
+    }
+}
+```
+
+这段代码表示当查询到 `--truncation: true` 的条件时，设置相应的样式，这里是画了一个红色的边框
+
+<br><br>
+
+# CSS 多行文本展开收起
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .text-wrap {
+                display: flex;
+                position: relative;
+                width: 300px;
+                padding: 8px;
+                outline: 1px dashed #9747ff;
+                border-radius: 4px;
+                line-height: 1.5;
+                text-align: justify;
+                font-family: cursive;
+            }
+
+            .expand {
+                font-size: 80%;
+                padding: 0.2em 0.5em;
+                background-color: #9747ff;
+                color: #fff;
+                border-radius: 4px;
+                cursor: pointer;
+                float: right;
+                clear: both;
+            }
+
+            .expand::after {
+                content: '展开';
+            }
+
+            .text-content {
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 3;
+                overflow: hidden;
+            }
+
+            .text-content::before {
+                content: '';
+                float: right;
+                height: calc(100% - 24px);
+            }
+
+            .text-wrap:has(:checked) .text-content {
+                -webkit-line-clamp: 999;
+            }
+
+            .text-wrap:has(:checked) .expand::after {
+                content: '收起';
+            }
+        </style>
+    </head>
+    <body>
+        <div class="text-wrap">
+            <div class="text-content">
+                <label class="expand"><input type="checkbox" hidden /></label>
+                欢迎关注前端侦探，这里有一些有趣的、你可能不知道的HTML、CSS、JS小技巧技巧。
+            </div>
+        </div>
+    </body>
+</html>
+```
+
+我们通过滚动驱动动画来判断是否溢出，并使用 CSS 变量作为标识，然后利用样式查询来控制展开按钮的显示状态，关键实现如下：
+
+```css
+.expand {
+    display: none;
+}
+.text-content {
+    --truncation: false;
+    animation: check;
+    animation-timeline: scroll(self);
+}
+@keyframes check {
+    from,
+    to {
+        --truncation: true;
+    }
+}
+@container style(--truncation: true) {
+    .expand {
+        display: initial;
+    }
+}
+```
+
+效果出来了，不过在点击展开后按钮也跟着消失了。这是因为展开后，CSS 检测出这时没有溢出，所以样式查询里的语句就不生效了，自然也就回到了之前的隐藏状态。
+
+要解决这个问题也很简单，在展开的时候始终显示按钮就行了，用 `:checked` 可以判断是否展开：
+
+```css
+.text-wrap:has(:checked) .expand {
+    display: initial;
+}
+```
+
+这样就正常了，完美！
+
+<br><br>
+
+# CSS 文本超出时显示 tooltips
+
+还有一个比较常见的需求，就是希望在文本出现省略号时，鼠标 hover 有 tooltips 提示。
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .txt {
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                padding: 8px;
+                outline: 1px dashed #9747ff;
+                font-family: cursive;
+                border-radius: 4px;
+            }
+            .txt::after {
+                content: attr(data-title);
+                position: absolute;
+                top: 0;
+                width: fit-content;
+                left: 50%;
+                margin: auto;
+                transform: translate(-50%, -100%);
+                background-color: rgba(0, 0, 0, 0.6);
+                padding: 0.3em 1em;
+                border-radius: 4px;
+                color: #fff;
+                opacity: 0;
+                visibility: hidden;
+                transition: 0.2s 0.1s;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="txt" data-title="这是一段可以自动出现tooltip的文本">
+            这是一段可以自动出现tooltip的文本
+        </div>
+    </body>
+</html>
+```
+
+加上 CSS 溢出检测，在检测到溢出时 hover 生效。仍然是相同的代码，添加一个滚动驱动动画，然后样式查询：
+
+```css
+.txt {
+    --truncation: false;
+    animation: check;
+    animation-timeline: scroll(x self);
+}
+@keyframes check {
+    from,
+    to {
+        --truncation: true;
+    }
+}
+@container style(--truncation: true) {
+    .txt:hover::after {
+        opacity: 1;
+        visibility: visible;
+    }
+}
+```
+
+注意，这里的 `scroll(x self)`，加了一个 `x`，因为这时的文本是横向溢出的，所以需要加上滚动驱动轴（默认是垂直方向）
+
+另外，由于超出隐藏，所以 tooltip 需要一个新的父级，不然就被裁掉了
+
+```html
+<div class="wrap">
+    <div class="txt" data-title="这是一段可以自动出现tooltip的文本">
+        这是一段可以自动出现tooltip的文本
+    </div>
+</div>
+```
+
+```css
+.wrap {
+    position: relative;
+}
+```
+
+这样就能实现文本超出时显示 tooltips
+
+<br><br>
+
+# 总结一下
+
+要实现文本溢出检测，需要用到两个新特性，CSS 滚动驱动动画和 CSS 样式查询。CSS 滚动驱动动画可以检测出容器是否可滚动，也就是溢出，即使是在超出隐藏的情况下。CSS 样式查询可以查询到 CSS 变量的变化，从而设置不同的样式。借助 CSS 滚动驱动动画和 CSS 样式查询，可以很轻松的实现文本溢出检测。
+
+两个实例：CSS 多行文本展开收起和 CSS 文本超出时显示 tooltips。当然除了以上一些案例，还可以做的事情很多，比如以前有写一篇判断指定高度后就显示折叠按钮，也可以用这种方式来实现，几乎所有与溢出相关的交互都可以纯 CSS 完成。
+
+<br>
