@@ -380,3 +380,15 @@ eg: You will be contacted by your new director. 你将被你的新主管联系�
 -   lose control of / over sth：失去对某事的控制
 
 <br><br>
+
+-   get sb into a routine of doing sth：让某人养成做某事的习惯
+
+<br>
+
+-   in a good mood 心情好
+-   in a bad mood 心情不好
+
+-   in a/the mood for sth / to do sth：有心情做某事
+-   in no mood for sth / to do sth：没有心情做某事
+
+<br><br>
