@@ -1,13 +1,3 @@
-实现这一类布局和交互难点主要有以下几点：
-
-1. 位于多行文本右下角的“展开收起”按钮
-
-2. “展开”和“收起”两种状态的切换
-
-3. 当文本不超过指定行数时，不显示“展开收起”按钮
-
-<br><br>
-
 # 位于右下角的“展开收起”按钮
 
 1. 多行文本截断
@@ -54,7 +44,7 @@
 
 ```css
 .text::before {
-    content: '';
+    content: "";
     float: right;
     width: 10px;
     height: 50px; /* 先随便设置一个高度 */
@@ -75,7 +65,7 @@
 
 ```css
 .text::before {
-    content: '';
+    content: "";
     float: right;
     height: 50px; /* 先随便设置一个高度 */
 }
@@ -105,7 +95,7 @@
 }
 
 .text::before {
-    content: '';
+    content: "";
     float: right;
     height: calc(100% - 24px);
 }
@@ -115,7 +105,7 @@
 
 ```css
 .text::before {
-    content: '';
+    content: "";
     float: right;
     height: 100%;
     margin-bottom: -24px;
@@ -139,15 +129,15 @@ safari 和 firefox 下使用 `display: -webkit-box` 会有问题，原本的文�
 为了方便更好的控制行数，这里可以把常用的行数通过属性选择器独立出来（通常不会太多），如下
 
 ```css
-[line-clamp='1'] {
+[line-clamp="1"] {
     max-height: 1.5em;
 }
 
-[line-clamp='2'] {
+[line-clamp="2"] {
     max-height: 3em;
 }
 
-[line-clamp='3'] {
+[line-clamp="3"] {
     max-height: 4.5em;
 }
 ```
@@ -170,7 +160,7 @@ safari 和 firefox 下使用 `display: -webkit-box` 会有问题，原本的文�
 }
 
 .btn::before {
-    content: '...';
+    content: "...";
     position: absolute;
     left: -10px;
     color: #333;
@@ -238,7 +228,7 @@ safari 和 firefox 下使用 `display: -webkit-box` 会有问题，原本的文�
 
 ```css
 .btn::after {
-    content: '展开';
+    content: "展开";
 }
 ```
 
@@ -246,7 +236,7 @@ safari 和 firefox 下使用 `display: -webkit-box` 会有问题，原本的文�
 
 ```css
 #exp:checked + .text .btn::after {
-    content: '收起';
+    content: "收起";
 }
 ```
 
@@ -298,7 +288,7 @@ if (scrollHeight > clientHeight) {
 }
 
 .text::after {
-    content: '';
+    content: "";
     width: 10px;
     height: 10px;
     position: absolute;
@@ -312,7 +302,7 @@ if (scrollHeight > clientHeight) {
 
 ```css
 .text::after {
-    content: '';
+    content: "";
     width: 100%;
     height: 100%;
     position: absolute;
@@ -324,7 +314,7 @@ if (scrollHeight > clientHeight) {
 
 ```css
 .text::after {
-    content: '';
+    content: "";
     width: 100%;
     height: 100%;
     position: absolute;
