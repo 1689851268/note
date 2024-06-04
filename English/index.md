@@ -392,3 +392,9 @@ eg: You will be contacted by your new director. 你将被你的新主管联系�
 -   in no mood for sth / to do sth：没有心情做某事
 
 <br><br>
+
+-   would rather do sth than do sth：宁愿做...而不愿做...
+
+-   at one's leisure：在某人方便的时候
+
+<br><br>
