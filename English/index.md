@@ -398,3 +398,15 @@ eg: You will be contacted by your new director. 你将被你的新主管联系�
 -   at one's leisure：在某人方便的时候
 
 <br><br>
+
+某些情况下的现在进行时，也可以表示 "计划" "打算"：be + 动词 ing
+
+现在进行时可用于表达不久将来的出行计划，与**位置转移动词 come、go、leave、arrive 等**组成句子：
+eg：I'm leaving for Paris. 我要去巴黎了。
+eg：She's coming to visit us. 她要来看我们了。
+
+现在进行时也可用于**非位置转移动词**，表示未来的计划安排。但是为了与正在发生的事情进行区分，需要加上**指示时间的短语**，比如：
+eg：He's meeting his friends this afternoon. 他今天下午要和他的朋友们见面。
+eg：I'm having dinner with my parents tonight. 我今晚要和我父母吃晚饭。
+
+<br><br>
