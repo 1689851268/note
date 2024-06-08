@@ -410,3 +410,17 @@ eg：He's meeting his friends this afternoon. 他今天下午要和他的朋友�
 eg：I'm having dinner with my parents tonight. 我今晚要和我父母吃晚饭。
 
 <br><br>
+
+-   would like to do sth：想要做某事
+
+<br>
+
+Gold is more expensive than silver. 金比银贵。
+London is less busy than New York. 伦敦比纽约不忙。
+我们可以发现，比较级的结构是：**比较级 + than + 名词**。
+
+除了两个名词之间的比较，我们还可以使用 **比较级 + than + 句子** 的结构，对事物进行比较：
+The price of this book is higher than I expected. 这本书的价格比我预期的要高。
+He is sixty years old, but he is more energetic than I can imagine. 他已经六十岁了，但是他比我想象的要有活力。
+
+<br><br>
