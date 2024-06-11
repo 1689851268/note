@@ -424,3 +424,11 @@ The price of this book is higher than I expected. 这本书的价格比我预期
 He is sixty years old, but he is more energetic than I can imagine. 他已经六十岁了，但是他比我想象的要有活力。
 
 <br><br>
+
+-   import sth from A to B：从 A 进口某物到 B
+
+<br>
+
+-   light refreshments 简餐
+
+<br><br>
