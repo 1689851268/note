@@ -432,3 +432,19 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 -   light refreshments 简餐
 
 <br><br>
+
+当我们想表达 "实际情况比预想的要 ... 得多" 时，可以使用：
+
+-   形容词比较级 + than sb thought/expected/imagined
+    eg: You are **more serious** about keeping fit **than I thought**. 你对保持健康的事情比我想象的要认真。
+    eg: The salad is **more delicious than I expected**. 这个沙拉比我预想的要好吃。
+    eg: This app becomes **more popular than I imagined**. 这个应用比我想象的要受欢迎。
+
+-   形容词比较级 + than sb would (usually) imagine
+    eg: Grape juice is **more sugary than you would imagine**. 葡萄汁比你想象的要甜。
+
+-   形容词比较级 + than sb could/can (ever) imagine
+    eg: Rasing kids can be **more tiring than you could imagine**. 养孩子比你想象的要累。
+    eg: She is almost 70 years old, but she is **faster than you can imagine**. 她快 70 岁了，但是她比你想象的要快。
+
+<br><br>
