@@ -448,3 +448,16 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
     eg: She is almost 70 years old, but she is **faster than you can imagine**. 她快 70 岁了，但是她比你想象的要快。
 
 <br><br>
+
+-   be (too/really/fully) engaged in sth：忙于做某事
+
+<br>
+
+-   br aware of sth：意识到某事
+
+<br>
+
+-   distract sb from sth：使某人分心
+-   distract sb from doing sth：使某人分心做某事
+
+<br><br>
