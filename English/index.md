@@ -461,3 +461,9 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 -   distract sb from doing sth：使某人分心做某事
 
 <br><br>
+
+-   make connections to sth：纠正某事
+
+-   pick up sth：学习某事
+
+<br><br>
