@@ -137,6 +137,8 @@ eg：This cheese cake tastes **a little bit** better than the last one. 这个�
 
 -   there's no comparison between A and B：A 和 B 没法比较
 
+-   compare A to B：把 A 与 B 进行比较
+
 <br><br>
 
 短语动词：动词 (get / take / put / ...) + 介词 (on / off / up / down / in / out / ...)
@@ -462,8 +464,18 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 
 <br><br>
 
--   make connections to sth：纠正某事
+-   make corrections to sth：纠正某事
 
 -   pick up sth：学习某事
+
+<br><br>
+
+-   be diligent in / about sth：在某事上勤奋
+
+<br>
+
+-   carry out 表示执行、贯彻、落实
+
+-   achieve 表示经过努力完成某事
 
 <br><br>
