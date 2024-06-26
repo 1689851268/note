@@ -479,3 +479,7 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 -   achieve 表示经过努力完成某事
 
 <br><br>
+
+-   Do you have a minute/second/moment? 有时间嘛
+
+<br><br>
