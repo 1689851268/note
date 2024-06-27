@@ -483,3 +483,16 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 -   Do you have a minute/second/moment? 有时间嘛
 
 <br><br>
+
+-   in my experience：根据我的经验
+
+<br>
+
+-   exchange A for B：用 A 换 B
+
+<br>
+
+-   have access to sth：有权使用某物
+-   gain access to sth：获得使用某物的权利
+
+<br><br>
