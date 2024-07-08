@@ -496,3 +496,16 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 -   gain access to sth：获得使用某物的权利
 
 <br><br>
+
+-   arrive at / reach one's destination：到达目的地
+
+<br>
+
+-   to one's great disappointment：令某人大失所望
+-   to avoid disappointment：避免失望
+
+<br>
+
+-   use / take public transportation：使用公共交通
+
+<br><br>
