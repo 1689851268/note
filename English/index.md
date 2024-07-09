@@ -509,3 +509,11 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 -   use / take public transportation：使用公共交通
 
 <br><br>
+
+当我们想在疑问句中使用**频率副词**（ever、never、always、still、usually 等）时，副词需要放在主语（you、they）和谓语动词（like、been）之间。
+
+eg：Have you ever been to Paris before? 你以前去过巴黎吗？
+
+eg：Do you still like to play basketball? 你还喜欢打篮球吗？
+
+<br><br>
