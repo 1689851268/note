@@ -517,3 +517,26 @@ eg：Have you ever been to Paris before? 你以前去过巴黎吗？
 eg：Do you still like to play basketball? 你还喜欢打篮球吗？
 
 <br><br>
+
+-   go on / take an expedition：进行探险
+
+<br>
+
+-   hitchhike to / around / across：搭便车去/周围/横穿
+-   pick up hitchhikers：载搭便车的人
+
+<br>
+
+英语中很少用 very / extremely 来修饰 delighted，可以用 great / absolutely / highly 等副词：
+
+**eg**：She is highly delighted with that dress. 她对那件连衣裙非常满意。
+
+**eg**：I'm absolutely delighted to start my own business. 我非常高兴开始自己的事业。
+
+delighted 的名词形式是 delight：
+
+**eg**：It would give me great delight if you can come to the party. 如果你能来参加聚会，我会非常高兴。
+
+delighted 比较正式，日产可以使用 pleased、happy、excited 等。
+
+<br><br>
