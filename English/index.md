@@ -540,3 +540,7 @@ delighted 的名词形式是 delight：
 delighted 比较正式，日产可以使用 pleased、happy、excited 等。
 
 <br><br>
+
+-   be careless with sth：对某事粗心
+
+<br><br>
