@@ -544,3 +544,9 @@ delighted 比较正式，日产可以使用 pleased、happy、excited 等。
 -   be careless with sth：对某事粗心
 
 <br><br>
+
+-   此外、而且：plus、besides、in addition、furthermore、moreover、what's more
+
+-   比如：for example、for instance、such as、like
+
+<br><br>
