@@ -550,3 +550,16 @@ delighted 比较正式，日产可以使用 pleased、happy、excited 等。
 -   比如：for example、for instance、such as、like
 
 <br><br>
+
+the most natural thing in the world：世界上最自然的事情
+
+<br>
+
+-   wave to / at sb：向某人挥手
+-   wave (sb) goodbye / wave goodbye to sb：向某人挥手告别
+
+<br>
+
+-   watch over sb/sth：照看某人/某物
+
+<br><br>
