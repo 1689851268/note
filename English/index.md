@@ -563,3 +563,37 @@ the most natural thing in the world：世界上最自然的事情
 -   watch over sb/sth：照看某人/某物
 
 <br><br>
+
+形式主语：
+
+To talk with an intelligent man is always interesting. 和一个聪明人交谈总是很有趣。
+
+这里的 to talk with an intelligent man 是主语，为了避免主语过长，我们会将其放到句末，用 it 作形式主语。
+
+It is always interesting to talk with an intelligent man. 和一个聪明人交谈总是很有趣。
+
+<br>
+
+It + be + 过去分词/形容词/名词短语 + that 从句：
+
+eg：It is said that he is a good teacher. 据说他是一个好老师。
+
+eg：It is important that we should learn English well. 我们应该学好英语是很重要的。
+
+eg：It is a fact that the earth is round. 地球是圆的是一个事实。
+
+<br><br>
+
+-   historic 强调 "具有历史意义的" / "历史上著名的"
+-   historical 强调 "与历史有关的"
+
+<br>
+
+-   attempt to do sth：尝试做某事
+-   attempt sth：尝试某事
+
+<br>
+
+-   in a 形容词 situation：处于某种处境之中
+
+<br><br>
