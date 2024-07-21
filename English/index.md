@@ -597,3 +597,11 @@ eg：It is a fact that the earth is round. 地球是圆的是一个事实。
 -   in a 形容词 situation：处于某种处境之中
 
 <br><br>
+
+日常交谈中，我们会用 the ( only / other ) thing is、you see 等短语来补充信息。这些表达比较随意，一般不用于正式的书面写作。
+
+eg: The only thing is, he is always late for work. 唯一的问题是，他上班总是迟到。
+
+eg: You see, the thing is, I won't be back from my holiday until the end of next week. 你看，问题是，我要到下周末才能从度假回来。
+
+<br><br>
