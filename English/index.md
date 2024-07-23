@@ -605,3 +605,9 @@ eg: The only thing is, he is always late for work. 唯一的问题是，他上�
 eg: You see, the thing is, I won't be back from my holiday until the end of next week. 你看，问题是，我要到下周末才能从度假回来。
 
 <br><br>
+
+虽然、尽管：although、though、even though、while；其中，even though 的语气最强烈。
+
+although、though、even though、while 都可以放在开头；while 也可以放在句中；though 也可以放在句末。
+
+<br><br>
