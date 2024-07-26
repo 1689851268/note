@@ -611,3 +611,24 @@ eg: You see, the thing is, I won't be back from my holiday until the end of next
 although、though、even though、while 都可以放在开头；while 也可以放在句中；though 也可以放在句末。
 
 <br><br>
+
+because / as / since 可以用来表示前一句话的原因。
+
+as 比较正式
+
+<br>
+
+-   put (a lot of) effort into (doing) sth: 付出（很多）努力做某事
+-   make an effort to do sth: 努力做某事
+
+<br>
+
+-   compete with sb : 与某人竞争
+-   compete for sth: 为某事竞争
+-   compete with sb for sth: 与某人为某事竞争
+
+<br>
+
+-   select sb as ...: 选某人为...
+
+<br><br>
