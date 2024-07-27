@@ -632,3 +632,7 @@ as 比较正式
 -   select sb as ...: 选某人为...
 
 <br><br>
+
+-   be qualified for sth: 有资格做某事
+
+<br><br>
