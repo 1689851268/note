@@ -77,10 +77,6 @@ a head of broccoli 一颗西兰花
 
 -   afford to do sth：有能力做某事
 
-<br>
-
--   be in the mood for sth：想要做某事
-
 <br><br>
 
 -   i world recommend + that + 主语 + 动词原形：我建议某人做某事
@@ -387,11 +383,22 @@ eg: You will be contacted by your new director. 你将被你的新主管联系�
 
 <br>
 
--   in a good mood 心情好
--   in a bad mood 心情不好
+-   in a good / bad mood 心情好/不好
 
--   in a/the mood for sth / to do sth：有心情做某事
--   in no mood for sth / to do sth：没有心情做某事
+-   in a / the mood for sth: 想要做某事
+-   in a / the mood to do sth: 想要做某事
+
+-   in no mood for sth: 不想做某事
+-   in no mood to do sth: 不想做某事
+
+<br>
+
+-   be not in the mood for sth: 不想做某事
+-   be not in the mood to do sth: 不想做某事
+
+-   be upset about sth: 对某事感到不高兴
+
+-   feel down: 感到沮丧
 
 <br><br>
 
