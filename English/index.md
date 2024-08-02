@@ -643,3 +643,7 @@ as 比较正式
 -   be qualified for sth: 有资格做某事
 
 <br><br>
+
+-   a tradition of doing sth: 一种...的传统
+
+<br><br>
