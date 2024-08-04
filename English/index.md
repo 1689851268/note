@@ -662,3 +662,7 @@ as 比较正式
     eg: This book is the same price as that one. / The price of this book is the same as that one. 这本书和那本一样价格。
 
 <br><br>
+
+-   season to taste: 根据口味调味
+
+<br><br>
