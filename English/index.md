@@ -666,3 +666,24 @@ as 比较正式
 -   season to taste: 根据口味调味
 
 <br><br>
+
+-   be keen on sth: 对某事感兴趣
+-   be keen to do sth: 渴望做某事
+
+<br>
+
+-   to set the table: 摆餐具
+
+<br>
+
+-   (not) as ... as ...: 和...(不)一样...
+    eg: Research shows that students are not as keen on working part-time as they used to be. 研究表明，学生们对打工的热情不如以前了。
+    可以写成: Research shows that students are less keen on working part-time than they used to be.
+    也可以写成: Research shows that students in the past are more keen on working part-time than students are now.
+
+-   我们可以将 just、almost、nearly、quite 等副词放在 as ... as ... 结构中，表示程度。
+    eg: I'm just as excited as you are. 我和你一样兴奋。
+    eg: I'm almost as tall as you. 我和你几乎一样高。
+    eg: I'm quite as good as you. 我和你相当好。
+
+<br><br>
