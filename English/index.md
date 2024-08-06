@@ -613,17 +613,10 @@ eg: You see, the thing is, I won't be back from my holiday until the end of next
 
 <br><br>
 
-although、though、even though、while 都能表示 "虽然、尽管"；其中，even though 的语气最强烈。
-
-although、though、even though、while 都可以放在句子的开头 / 中间。
-
-<br>
-
-though 作为副词使用时，在口语中可以放在句末，表示 "但是"。
-
-<br>
-
-while 除了 "虽然、尽管" 还能表示 "但是"。
+-   although、though、even though、while 都能表示 "虽然、尽管"；其中，even though 的语气最强烈。
+    although、though、even though、while 都可以放在句子的开头 / 中间。
+-   though 作为副词使用时，在口语中可以放在句末，表示 "但是"。
+-   while 除了 "虽然、尽管" 还能表示 "但是"。
 
 <br><br>
 
@@ -656,13 +649,6 @@ as 比较正式
 
 <br><br>
 
--   A ... the same (名词) as B: A 和 B 一样...
-    eg: I am the same age as you. / My age is the same as yours. 我和你一样大。
-    eg: My car is the same color as yours. / The color of my car is the same as yours. 我的车和你的一样颜色。
-    eg: This book is the same price as that one. / The price of this book is the same as that one. 这本书和那本一样价格。
-
-<br><br>
-
 -   season to taste: 根据口味调味
 
 <br><br>
@@ -685,5 +671,11 @@ as 比较正式
     eg: I'm just as excited as you are. 我和你一样兴奋。
     eg: I'm almost as tall as you. 我和你几乎一样高。
     eg: I'm quite as good as you. 我和你相当好。
+
+<br><br>
+
+-   ... be the same (名词) as ...: A 和 B 一样...
+    eg: I am the same age as you. / My age is the same as yours. 我和你一样大。
+    eg: My opinion is pretty much the same as yours. 我的观点和你的差不多。
 
 <br><br>
