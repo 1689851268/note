@@ -668,14 +668,21 @@ as 比较正式
     也可以写成: Research shows that students in the past are more keen on working part-time than students are now.
 
 -   我们可以将 just、almost、nearly、quite 等副词放在 as ... as ... 结构中，表示程度。
-    eg: I'm just as excited as you are. 我和你一样兴奋。
-    eg: I'm almost as tall as you. 我和你几乎一样高。
-    eg: I'm quite as good as you. 我和你相当好。
+    eg: I'm **just** as excited as you are. 我**完全**和你一样兴奋。
+    eg: I'm **almost** as tall as you. 我和你**几乎**一样高。
+    eg: I'm **quite** as good as you. 我和你**相当**好。
+-   not nearly as ... as ...: 强调两者相差很大
+-   not quite as ... as ...: 表示两者相差不大
 
 <br><br>
 
--   ... be the same (名词) as ...: A 和 B 一样...
+-   ... be the same (名词) as ...: ... 和 ... 一样
     eg: I am the same age as you. / My age is the same as yours. 我和你一样大。
     eg: My opinion is pretty much the same as yours. 我的观点和你的差不多。
+
+<br><br>
+
+-   ... may (not) do ...: ... 可能 (不) ...
+-   ... may also (not) do ...: ... 也可能 (不) ...
 
 <br><br>
