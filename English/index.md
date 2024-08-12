@@ -686,3 +686,16 @@ as 比较正式
 -   ... may also (not) do ...: ... 也可能 (不) ...
 
 <br><br>
+
+表达自己的猜测：
+
+1. Could it be ...? - 会是...吗？
+   eg: could it be makeup? 会是化妆品吗？
+
+2. Perhaps it's ... - 可能是...
+   eg: perhaps it's a ring. 可能是戒指。
+
+3. It's difficult to say, but I'd guess ... - 很难说，但我猜...
+   eg: it's difficult to say, but I'd guess it's a necklace. 很难说，但我猜是项链。
+
+<br><br>
