@@ -699,3 +699,21 @@ as 比较正式
    eg: it's difficult to say, but I'd guess it's a necklace. 很难说，但我猜是项链。
 
 <br><br>
+
+-   drive (sth/sb) away: 驱赶（某物/某人）
+-   drive away sth/sb: 驱赶某物/某人
+
+<br>
+
+-   a reward for (doing) sth: 对...的奖励
+
+<br>
+
+-   a method of/for doing sth: 做某事的方法
+
+<br>
+
+-   have a preference for sth: 偏爱某事
+-   have a preference for A over B: 相比于 B, 更偏爱 A
+
+<br><br>
