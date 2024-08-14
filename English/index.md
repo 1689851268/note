@@ -529,6 +529,7 @@ eg：Do you still like to play basketball? 你还喜欢打篮球吗？
 
 <br>
 
+-   hitchhike: 搭便车 (v n)
 -   hitchhike to / around / across：搭便车去/周围/横穿
 -   pick up hitchhikers：载搭便车的人
 
