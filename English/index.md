@@ -718,3 +718,8 @@ as 比较正式
 -   have a preference for A over B: 相比于 B, 更偏爱 A
 
 <br><br>
+
+-   set an objective: 设定目标
+-   achieve/reach/meet an objective: 达到目标
+
+<br><br>
