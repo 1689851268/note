@@ -723,3 +723,20 @@ as 比较正式
 -   achieve/reach/meet an objective: 达到目标
 
 <br><br>
+
+-   give ome a break: 饶了我吧
+
+eg: Do you have to go on and on? Give me a break! 你非要继续说个不停吗？饶了我吧！
+eg: Come on, give me a break! That's totally nonsense. 来吧，饶了我吧！那完全是胡说八道。
+
+-   here we go again: 又来了
+
+eg: Here we go again. Why do i always get blamed when anything goes wrong? 又来了。为什么每次出了问题我总是被指责？
+eg: Here we go again. What's the point of talking about it? 又来了。谈论这个有什么意义？
+
+-   ... or not? : 到底
+
+eg: Are you listening to me or not? 你到底在听我说话吗？
+eg: Can you do it or not? 你到底能不能做？
+
+<br><br>
