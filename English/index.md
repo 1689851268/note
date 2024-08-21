@@ -740,3 +740,18 @@ eg: Are you listening to me or not? 你到底在听我说话吗？
 eg: Can you do it or not? 你到底能不能做？
 
 <br><br>
+
+**一般过去时**强调的是**动作发生并结束于过去**。
+eg: John learnt to play the piano when he was six. 约翰六岁时学会了弹钢琴。
+
+**现在完成时**表示动作**从过去发生一直持续到现在**，或是强调**过去的动作与现在的联系**。
+eg: I have been in this city since the first of June. 我从六月一号就在这个城市了。
+
+eg: She lived in London for a year. 她在伦敦住了一年。(言外之意是她现在不在伦敦了)
+eg: She has lived in London for a year. 她在伦敦住了一年了。(言外之意是她现在还在伦敦)
+
+在对话中，现在完成时可以用来谈论截至到说话者目前的一些经历。这些经历发生的具体时间并不重要。
+eg: Do you want to see the new Batman movie? I've seen that already. Can we choose a different one?
+eg: We are going to the new restaurant tonight. I've been there a couple of times before.
+
+<br><br>
