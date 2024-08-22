@@ -559,19 +559,6 @@ delighted 比较正式，日产可以使用 pleased、happy、excited 等。
 
 <br><br>
 
-the most natural thing in the world：世界上最自然的事情
-
-<br>
-
--   wave to / at sb：向某人挥手
--   wave (sb) goodbye / wave goodbye to sb：向某人挥手告别
-
-<br>
-
--   watch over sb/sth：照看某人/某物
-
-<br><br>
-
 形式主语：
 
 To talk with an intelligent man is always interesting. 和一个聪明人交谈总是很有趣。
@@ -753,5 +740,26 @@ eg: She has lived in London for a year. 她在伦敦住了一年了。(言外之
 在对话中，现在完成时可以用来谈论截至到说话者目前的一些经历。这些经历发生的具体时间并不重要。
 eg: Do you want to see the new Batman movie? I've seen that already. Can we choose a different one?
 eg: We are going to the new restaurant tonight. I've been there a couple of times before.
+
+<br><br>
+
+-   It's only natural that ...: ... 是很自然的
+-   the most natural thing in the world：世界上最自然的事情
+
+<br>
+
+-   wave to / at sb：向某人挥手
+-   wave (sb) goodbye: 向某人挥手告别
+-   wave goodbye to sb：向某人挥手告别
+
+<br>
+
+-   watch over: 照看
+
+<br><br>
+
+-   get cold feet: 临阵退缩
+-   get cold feet about sth: 对某事临阵退缩
+-   get cold feet doing sth: 在做某事时临阵退缩
 
 <br><br>
