@@ -743,8 +743,8 @@ eg: We are going to the new restaurant tonight. I've been there a couple of time
 
 <br><br>
 
--   It's only natural that ...: ... 是很自然的
--   the most natural thing in the world：世界上最自然的事情
+-   It's (only / perfectly) natural (for sb) to do sth: (对某人来说) 做某事再自然不过了
+-   the most natural thing in the world：再自然不过了
 
 <br>
 
