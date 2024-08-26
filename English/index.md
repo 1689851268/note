@@ -763,3 +763,19 @@ eg: We are going to the new restaurant tonight. I've been there a couple of time
 -   get cold feet doing sth: 在做某事时临阵退缩
 
 <br><br>
+
+最高级 + 定语从句 + 现在完成时
+eg: It was the worst decision (that) I've ever made in my life. 那是我这辈子做过的最糟糕的决定。
+
+eg: Thailand is the most beautiful country (that) I've visited. 泰国是我去过的最美丽的国家。
+eg: This is the best movie (that) I've seen recently. 这是我最近看过的最好的电影。
+
+ever 用来加强语气，表示 "到目前为止"。
+eg: He is the most handsome man that I've ever seen. 他是我见过的最帅的男人。
+eg: That is the most interesting book that I've ever read. 那是我读过的最有趣的书。
+
+<br>
+
+-   in celebration of sth: 庆祝某事
+
+<br><br>
