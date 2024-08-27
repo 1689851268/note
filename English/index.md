@@ -779,3 +779,20 @@ eg: That is the most interesting book that I've ever read. 那是我读过的最
 -   in celebration of sth: 庆祝某事
 
 <br><br>
+
+-   move sb to tears: 使某人感动得流泪
+-   tears of happiness/joy/sadness: 幸福/快乐/悲伤的眼泪
+
+<br>
+
+-   go on a honeymoon: 去度蜜月
+
+<br>
+
+-   a piece of baggage / luggage: 一件行李
+
+<br>
+
+-   set off: 出发
+
+<br><br>
