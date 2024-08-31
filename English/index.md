@@ -796,3 +796,10 @@ eg: That is the most interesting book that I've ever read. 那是我读过的最
 -   set off: 出发
 
 <br><br>
+
+形容词最高级 + 现在完成时 + ever + ... in my life / recently
+eg: Titanic is the best movie that I've ever seen. 泰坦尼克号是我看过的最好的电影。
+eg: The best movie that I've ever seen is Titanic. 我看过的最好的电影是泰坦尼克号。
+eg: Working in China is the greatest opportunity she's ever had in her life. 在中国工作是她这辈子拥有的最好的机会。
+
+<br><br>
