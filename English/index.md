@@ -803,3 +803,14 @@ eg: The best movie that I've ever seen is Titanic. 我看过的最好的电影�
 eg: Working in China is the greatest opportunity she's ever had in her life. 在中国工作是她这辈子拥有的最好的机会。
 
 <br><br>
+
+我们用**现在完成进行时**来谈论从过去开始、现在仍在持续中的动作：
+eg: I haven't been having dates recently. 我最近没有约会。
+
+当我们想表示某个动作从某个时间点开始的时候，我们使用 **since**:
+eg: I have been studying since 9 o'clock. 我从九点开始学习。
+
+当我们想表示某个动作持续了多长时间，我们使用 **for**:
+eg: I have been studying for two hours. 我已经学习了两个小时。
+
+<br><br>
