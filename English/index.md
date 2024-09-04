@@ -814,3 +814,11 @@ eg: I have been studying since 9 o'clock. 我从九点开始学习。
 eg: I have been studying for two hours. 我已经学习了两个小时。
 
 <br><br>
+
+-   have a crush on sb: 对某人有好感
+
+<br>
+
+-   A is attracted to B: A 对 B 有好感
+
+<br><br>
