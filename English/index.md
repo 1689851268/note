@@ -822,3 +822,10 @@ eg: I have been studying for two hours. 我已经学习了两个小时。
 -   A is attracted to B: A 对 B 有好感
 
 <br><br>
+
+我们使用副词 already 强调某件事情已经被完成了，而且比预期的时间早。
+eg: I've already finished my homework. 我已经完成了我的作业。
+eg: Her baby is only 8 months old and he has already learned to walk. 她的宝宝才 8 个月大，他已经学会走路了。
+eg: Have you already eaten lunch? 你已经吃午饭了吗？(表示对方吃午饭的时间比预期的早)
+
+<br><br>
