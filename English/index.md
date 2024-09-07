@@ -664,12 +664,6 @@ as 比较正式
 
 <br><br>
 
--   ... be the same (名词) as ...: ... 和 ... 一样
-    eg: I am the same age as you. / My age is the same as yours. 我和你一样大。
-    eg: My opinion is pretty much the same as yours. 我的观点和你的差不多。
-
-<br><br>
-
 -   ... may (not) do ...: ... 可能 (不) ...
 -   ... may also (not) do ...: ... 也可能 (不) ...
 
@@ -827,5 +821,11 @@ eg: I have been studying for two hours. 我已经学习了两个小时。
 eg: I've already finished my homework. 我已经完成了我的作业。
 eg: Her baby is only 8 months old and he has already learned to walk. 她的宝宝才 8 个月大，他已经学会走路了。
 eg: Have you already eaten lunch? 你已经吃午饭了吗？(表示对方吃午饭的时间比预期的早)
+
+<br><br>
+
+-   ... the same (名词) as ...: ... 和 ... 一样
+    eg: I am the same age as you. / My age is the same as yours. 我和你一样大。
+    eg: My opinion is pretty much the same as yours. 我的观点和你的差不多。
 
 <br><br>
