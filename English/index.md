@@ -829,3 +829,5 @@ eg: Have you already eaten lunch? 你已经吃午饭了吗？(表示对方吃午
     eg: My opinion is pretty much the same as yours. 我的观点和你的差不多。
 
 <br><br>
+
+-   provide sb with sth === provide sth for sb 提供某物给某人
