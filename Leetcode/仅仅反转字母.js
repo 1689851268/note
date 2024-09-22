@@ -1,5 +1,5 @@
 /*
- * @Description: 
+ * @Description:
  * @Author: superman
  * @Date: 2022-02-23 18:33:33
  * @LastEditors: superman
@@ -14,10 +14,12 @@ var reverseOnlyLetters = function (s) {
     while (true) {
         // `reg.test(str)` 可判断参数 `str` 中是否含有匹配正则的子字符串
         // `/^[a-zA-Z]+$/` 表示字母字符串
-        while (left < right && !(/^[a-zA-Z]+$/.test(s[left]))) { // 判断左边是否扫描到字母
+        while (left < right && !/^[a-zA-Z]+$/.test(s[left])) {
+            // 判断左边是否扫描到字母
             left++;
         }
-        while (right > left && !(/^[a-zA-Z]+$/.test(s[right]))) { // 判断右边是否扫描到字母
+        while (right > left && !/^[a-zA-Z]+$/.test(s[right])) {
+            // 判断右边是否扫描到字母
             right--;
         }
         if (left >= right) {
@@ -27,16 +29,15 @@ var reverseOnlyLetters = function (s) {
         left++;
         right--;
     }
-    return arr.join(''); // 将数组转成字符串
+    return arr.join(""); // 将数组转成字符串
 };
 
 const swap = (arr, left, right) => {
     const temp = arr[left];
     arr[left] = arr[right];
     arr[right] = temp;
-}
-
+};
 
 let str = "a-bC-dEf-ghIj";
-console.log("原字符串：", str);
-console.log("反转字符串：", reverseOnlyLetters(str));
+console.log("原字符串: ", str);
+console.log("反转字符串: ", reverseOnlyLetters(str));

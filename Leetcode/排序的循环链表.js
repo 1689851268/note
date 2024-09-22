@@ -24,18 +24,17 @@ var insert = function (head, val) {
         return newNode;
     }
 
-    // 情况二：链表只有一个节点: 此情况其实是情况五的特例，因此代码可以省略
+    // 情况二: 链表只有一个节点: 此情况其实是情况五的特例, 因此代码可以省略
 
     let ptr = head;
     while (true) {
-        // 情况三：正常情况 —— 最小值 <= 插入值 <= 最大值
+        // 情况三: 正常情况 —— 最小值 <= 插入值 <= 最大值
         if (val >= ptr.val && val <= ptr.next.val) break;
 
-        // 情况四：首尾相接 —— 插入值 <= 最小值 || 插入值 >= 最大值
-        if (ptr.val > ptr.next.val && (val <= ptr.next.val || val >= ptr.val))
-            break;
+        // 情况四: 首尾相接 —— 插入值 <= 最小值 || 插入值 >= 最大值
+        if (ptr.val > ptr.next.val && (val <= ptr.next.val || val >= ptr.val)) break;
 
-        // 情况五：死循环 —— 最小值 == 插入值 == 最大值
+        // 情况五: 死循环 —— 最小值 == 插入值 == 最大值
         if (ptr.next == head) break;
 
         ptr = ptr.next;
