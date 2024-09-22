@@ -817,13 +817,6 @@ eg: I have been studying for two hours. 我已经学习了两个小时.
 
 <br><br>
 
-我们使用副词 already 强调某件事情已经被完成了, 而且比预期的时间早.
-eg: I've already finished my homework. 我已经完成了我的作业.
-eg: Her baby is only 8 months old and he has already learned to walk. 她的宝宝才 8 个月大, 他已经学会走路了.
-eg: Have you already eaten lunch? 你已经吃午饭了吗？(表示对方吃午饭的时间比预期的早)
-
-<br><br>
-
 -   ... the same (名词) as ...: ... 和 ... 一样
     eg: I am the same age as you. / My age is the same as yours. 我和你一样大.
     eg: My opinion is pretty much the same as yours. 我的观点和你的差不多.
@@ -831,3 +824,17 @@ eg: Have you already eaten lunch? 你已经吃午饭了吗？(表示对方吃午
 <br><br>
 
 -   provide sb with sth === provide sth for sb 提供某物给某人
+
+<br><br>
+
+我们使用副词 already 强调某件事情已经被完成了, 而且比预期的时间早.
+eg: I've already finished my homework. 我已经完成了我的作业.
+eg: Her baby is only 8 months old and he has already learned to walk. 她的宝宝才 8 个月大, 他已经学会走路了.
+eg: Have you already eaten lunch? 你已经吃午饭了吗？(表示对方吃午饭的时间比预期的早)
+
+<br>
+
+She has always been nice to me. 她一直对我很好.
+She has never been nice to me. 她从来没有对我好过.
+
+<br><br>
