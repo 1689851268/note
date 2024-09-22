@@ -125,7 +125,7 @@ console.log(myObject._name); // undefined
 
 # 原型模式
 
-访问实例的属性时, 先查看该实例自己的属性；若没有, 则查看其原型对象的属性；若还是没有, 则查看其原型对象的原型对象的属性；以此类推... 直至找到 `Object.prototype`.
+访问实例的属性时, 先查看该实例自己的属性; 若没有, 则查看其原型对象的属性; 若还是没有, 则查看其原型对象的原型对象的属性; 以此类推... 直至找到 `Object.prototype`.
 
 ```js
 var Person = function () {
@@ -142,6 +142,6 @@ console.log(clonePer.name); // superman
 ```
 
 方法 `Object.create()` 可用于创建对象: `const res = Object.create(para)`
-其中 `res` 为创建的对象；`para` 为 `res` 的原型对象, 若传入 `null` 则表示没有原型对象.
+其中 `res` 为创建的对象; `para` 为 `res` 的原型对象, 若传入 `null` 则表示没有原型对象.
 
 <br>

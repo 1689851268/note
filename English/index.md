@@ -305,7 +305,7 @@ eg: Your horse ate the apples. 你的马吃了苹果.
 
 有些动词后可以接两个宾语, 一个**间接宾语**、一个**直接宾语**.
 eg: The teacher gave the student a balloon. 老师给了学生一个气球.
-上例中, "气球" 是 "给" 这个动作的直接承受者, 所以是**直接宾语**；"学生" 是 "给" 这个动作的方向/木匾, 所以是**间接宾语**.
+上例中, "气球" 是 "给" 这个动作的直接承受者, 所以是**直接宾语**; "学生" 是 "给" 这个动作的方向/木匾, 所以是**间接宾语**.
 
 <br>
 
@@ -601,7 +601,7 @@ eg: You see, the thing is, I won't be back from my holiday until the end of next
 
 <br><br>
 
--   although、though、even though、while 都能表示 "虽然、尽管"；其中, even though 的语气最强烈.
+-   although、though、even though、while 都能表示 "虽然、尽管"; 其中, even though 的语气最强烈.
     although、though、even though、while 都可以放在句子的开头 / 中间.
 -   though 作为副词使用时, 在口语中可以放在句末, 表示 "但是".
 -   while 除了 "虽然、尽管" 还能表示 "但是".
