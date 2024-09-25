@@ -838,3 +838,11 @@ She has always been nice to me. 她一直对我很好.
 She has never been nice to me. 她从来没有对我好过.
 
 <br><br>
+
+-   grief at / over sth: 对某事的悲伤
+
+<br>
+
+-   sob oneself to sleep: 哭着入睡
+
+<br><br>
