@@ -846,3 +846,8 @@ She has never been nice to me. 她从来没有对我好过.
 -   sob oneself to sleep: 哭着入睡
 
 <br><br>
+
+-   blame sb for sth: 因某事责备某人
+-   blame sth on sb: 把某事归咎于某人
+
+<br><br>
