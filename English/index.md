@@ -851,3 +851,7 @@ She has never been nice to me. 她从来没有对我好过.
 -   blame sth on sb: 把某事归咎于某人
 
 <br><br>
+
+-   be worth doing sth: 值得做某事
+
+<br><br>
