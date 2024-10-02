@@ -20,7 +20,7 @@ one 表示 "任何人":
 
 <br><br>
 
-1. bridge the/a gap (between A and B): 弥合（A 和 B 之间的）差距
+1. bridge the/a gap (between A and B): 弥合 (A 和 B 之间的) 差距
 
 <br><br>
 
@@ -53,7 +53,7 @@ Why not leave it until another day? 为什么不把它留到另一天？
 在它之后我们可以用 `that (可省略) + 现在完成时`, 表示 "到目前为止最好的":
 Your parents are great cooks, that was the best meal that I've ever had. 你父母是很棒的厨师, 那是我吃过的最好的一顿饭.
 
-它还可以和介词短语连用（in the class, of our company 等）, 表示 "在...中最好的":
+它还可以和介词短语连用 (in the class, of our company 等) , 表示 "在...中最好的":
 She's the best student in the class. 她是班上最好的学生.
 
 <br><br>
@@ -222,7 +222,7 @@ commit 也可以直接加犯罪类型, commit theft 犯窃盗罪
     2. I'm sorry for doing sth.
     3. I feel awful.
 2. 给出解释:
-    1. In my defense, ... （带有调侃幽默的意思）
+    1. In my defense, ... (带有调侃幽默的意思)
 3. 做出保证:
     1. It won't happen again.
 
@@ -517,7 +517,7 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 
 <br><br>
 
-当我们想在疑问句中使用**频率副词**（ever,never,always,still,usually 等）时, 副词需要放在主语（you,they）和谓语动词（like,been）之间.
+当我们想在疑问句中使用**频率副词** (ever,never,always,still,usually 等) 时, 副词需要放在主语 (you,they) 和谓语动词 (like,been) 之间.
 
 eg: Have you ever been to Paris before? 你以前去过巴黎吗？
 
@@ -614,7 +614,7 @@ as 比较正式
 
 <br>
 
--   put (a lot of) effort into (doing) sth: 付出（很多）努力做某事
+-   put (a lot of) effort into (doing) sth: 付出 (很多) 努力做某事
 -   make an effort to do sth: 努力做某事
 
 <br>
@@ -682,7 +682,7 @@ as 比较正式
 
 <br><br>
 
--   drive (sth/sb) away: 驱赶（某物/某人）
+-   drive (sth/sb) away: 驱赶 (某物/某人)
 -   drive away sth/sb: 驱赶某物/某人
 
 <br>

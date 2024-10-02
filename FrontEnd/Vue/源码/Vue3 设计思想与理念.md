@@ -25,4 +25,4 @@
 ## Vue3 整体架构
 
 1. Monorepo 管理项目
-2. 完全支持 Typescript （ Vue2 对 Ts 的兼容性不友好 ）
+2. 完全支持 Typescript ( Vue2 对 Ts 的兼容性不友好 )
