@@ -101,9 +101,9 @@ renderMap(new baiduMap());
 
 封装的目的: 将信息隐藏.
 
-许多语言封装数据是由语法解析来实现的, 这些语言提供了 private、public、protected 等关键字来提供不同的访问权限.
+许多语言封装数据是由语法解析来实现的, 这些语言提供了 private,public,protected 等关键字来提供不同的访问权限.
 
-但 JS 没有提供这些关键字, 只能通过**作用域**来实现封装特性, 且只能模拟出 public、private 这两种封装性.
+但 JS 没有提供这些关键字, 只能通过**作用域**来实现封装特性, 且只能模拟出 public,private 这两种封装性.
 
 ```js
 var myObject = (function () {

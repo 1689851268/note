@@ -17,7 +17,7 @@
  */
 var isBoomerang = function (points) {
     // 假设 3 个点 A(x1, y1) B(x2, y2) C(x3, y3)
-    // 有向量 AB = (x2 - x1, y2 - y1)、 BC = (x3 - x2, y3 - y2)
+    // 有向量 AB = (x2 - x1, y2 - y1), BC = (x3 - x2, y3 - y2)
     let AB = [points[1][0] - points[0][0], points[1][1] - points[0][1]];
     let BC = [points[2][0] - points[1][0], points[2][1] - points[1][1]];
 

@@ -30,7 +30,7 @@ one 表示 "任何人":
 
 It might be a good idea to reserve a seat. 预订座位可能是个好主意.
 
-It might be a good idea just to follow your heart and stay open to all possibilities. 跟随你的内心、对所有可能性保持开放可能是个好主意.
+It might be a good idea just to follow your heart and stay open to all possibilities. 跟随你的内心,对所有可能性保持开放可能是个好主意.
 
 1. `Have you thought about/considered/try doing ...?`: 你有没有考虑过/尝试过做...？
 
@@ -81,7 +81,7 @@ a head of broccoli 一颗西兰花
 
 -   i world recommend + that + 主语 + 动词原形: 我建议某人做某事
 
-这里 world 用来弱化语气, 表委婉. 类似的可搭配动词还有 say、advise、imagine、suggest、think、believe 等. 一般在非正式场景下, 可以使用 say , 会随意一些.
+这里 world 用来弱化语气, 表委婉. 类似的可搭配动词还有 say,advise,imagine,suggest,think,believe 等. 一般在非正式场景下, 可以使用 say , 会随意一些.
 
 -   i world recommend/say + 名词/动名词: 我建议...
 
@@ -103,13 +103,13 @@ i would 可缩写为 i'd ~
 
 <br><br>
 
-1. 可以使用 much、so much、a great deal、a lot、far 等词来加强比较级
+1. 可以使用 much,so much,a great deal,a lot,far 等词来加强比较级
 
 eg: This cheese cake tastes better than the last one. 这个奶酪蛋糕比上一个好吃.
 This cheese cake tastes **much** better than the last one. 这个奶酪蛋糕比上一个好吃多了.
 This cheese cake tastes **so much** better than the last one. 这个奶酪蛋糕比上一个好吃太多了.
 
-2. 可以在形容词比较级前加 a little、a bit、a little bit 之类的状语来削弱比较级的强度, 表示 "稍微"
+2. 可以在形容词比较级前加 a little,a bit,a little bit 之类的状语来削弱比较级的强度, 表示 "稍微"
 
 eg: This cheese cake tastes **a little bit** better than the last one. 这个奶酪蛋糕比上一个好吃一点点.
 
@@ -177,9 +177,9 @@ eg: She **put them on**. 她穿上了它们.
 
 <br><br>
 
--   make up 化妆、编造
+-   make up 化妆,编造
 
--   take off 起飞、脱下、脱离
+-   take off 起飞,脱下,脱离
 
 -   take it over 认真考虑
 
@@ -243,25 +243,25 @@ commit 也可以直接加犯罪类型, commit theft 犯窃盗罪
 
 在**数量限定词**之前, 我们通常可以加上表示程度的**副词**, 用来修饰和限制对应的限定词.
 
--   数量限定词有: all、every、a few/a little、few/little...
--   可修饰这类限定词的副词有: almost、nearly、only、very...
+-   数量限定词有: all,every,a few/a little,few/little...
+-   可修饰这类限定词的副词有: almost,nearly,only,very...
 
 <br>
 
-nearly/almost 是 "几乎、将近" 的意思, 通常用来修饰 all、every:
+nearly/almost 是 "几乎,将近" 的意思, 通常用来修饰 all,every:
 eg: Almost all the eggs were broken. 几乎所有的鸡蛋都碎了.
 eg: I've been out nearly every night this week. 这周我几乎每晚都出去.
 
 <br>
 
-only 是 "只、仅" 的意思, 通常用来修饰 a little、a few:
+only 是 "只,仅" 的意思, 通常用来修饰 a little,a few:
 eg: Only a few people turned up for the meeting. 只有几个人参加了会议.
 eg: I can speak only a little Spanish. 我只会一点点西班牙语.
-注意: a few 后面加名词复数、a little 后面加不可数名词.
+注意: a few 后面加名词复数,a little 后面加不可数名词.
 
 <br>
 
-very 是 "非常" 的意思, 通常用来修饰 little、few, 表否定意义:
+very 是 "非常" 的意思, 通常用来修饰 little,few, 表否定意义:
 eg: I have very little money left. 我剩下的钱非常少.
 eg: Very few people succeed. 很少有人成功.
 
@@ -303,7 +303,7 @@ eg: Your horse ate the apples. 你的马吃了苹果.
 
 <br><br>
 
-有些动词后可以接两个宾语, 一个**间接宾语**、一个**直接宾语**.
+有些动词后可以接两个宾语, 一个**间接宾语**,一个**直接宾语**.
 eg: The teacher gave the student a balloon. 老师给了学生一个气球.
 上例中, "气球" 是 "给" 这个动作的直接承受者, 所以是**直接宾语**; "学生" 是 "给" 这个动作的方向/木匾, 所以是**间接宾语**.
 
@@ -320,7 +320,7 @@ eg: The child was read a story. 孩子被读了一个故事.
 
 -   be experienced in sth: 在某方面有经验
 
--   approve 为不及物动词, 需要和 of 连用, 表示 "赞成、同意".
+-   approve 为不及物动词, 需要和 of 连用, 表示 "赞成,同意".
     eg: I approve of your decision. 我赞成你的决定.
 
 -   permit doing sth: 允许做某事
@@ -410,7 +410,7 @@ eg: You will be contacted by your new director. 你将被你的新主管联系.
 
 某些情况下的现在进行时, 也可以表示 "计划" "打算": be + 动词 ing
 
-现在进行时可用于表达不久将来的出行计划, 与**位置转移动词 come、go、leave、arrive 等**组成句子:
+现在进行时可用于表达不久将来的出行计划, 与**位置转移动词 come,go,leave,arrive 等**组成句子:
 eg: I'm leaving for Paris. 我要去巴黎了.
 eg: She's coming to visit us. 她要来看我们了.
 
@@ -481,7 +481,7 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 
 <br>
 
--   carry out 表示执行、贯彻、落实
+-   carry out 表示执行,贯彻,落实
 
 -   achieve 表示经过努力完成某事
 
@@ -517,7 +517,7 @@ He is sixty years old, but he is more energetic than I can imagine. 他已经六
 
 <br><br>
 
-当我们想在疑问句中使用**频率副词**（ever、never、always、still、usually 等）时, 副词需要放在主语（you、they）和谓语动词（like、been）之间.
+当我们想在疑问句中使用**频率副词**（ever,never,always,still,usually 等）时, 副词需要放在主语（you,they）和谓语动词（like,been）之间.
 
 eg: Have you ever been to Paris before? 你以前去过巴黎吗？
 
@@ -545,7 +545,7 @@ delighted 的名词形式是 delight:
 
 **eg**: It would give me great delight if you can come to the party. 如果你能来参加聚会, 我会非常高兴.
 
-delighted 比较正式, 日产可以使用 pleased、happy、excited 等.
+delighted 比较正式, 日产可以使用 pleased,happy,excited 等.
 
 <br><br>
 
@@ -553,9 +553,9 @@ delighted 比较正式, 日产可以使用 pleased、happy、excited 等.
 
 <br><br>
 
--   此外、而且: plus、besides、in addition、furthermore、moreover、what's more
+-   此外,而且: plus,besides,in addition,furthermore,moreover,what's more
 
--   比如: for example、for instance、such as、like
+-   比如: for example,for instance,such as,like
 
 <br><br>
 
@@ -593,7 +593,7 @@ eg: It is a fact that the earth is round. 地球是圆的是一个事实.
 
 <br><br>
 
-日常交谈中, 我们会用 the ( only / other ) thing is、you see 等短语来补充信息. 这些表达比较随意, 一般不用于正式的书面写作.
+日常交谈中, 我们会用 the ( only / other ) thing is,you see 等短语来补充信息. 这些表达比较随意, 一般不用于正式的书面写作.
 
 eg: The only thing is, he is always late for work. 唯一的问题是, 他上班总是迟到.
 
@@ -601,10 +601,10 @@ eg: You see, the thing is, I won't be back from my holiday until the end of next
 
 <br><br>
 
--   although、though、even though、while 都能表示 "虽然、尽管"; 其中, even though 的语气最强烈.
-    although、though、even though、while 都可以放在句子的开头 / 中间.
+-   although,though,even though,while 都能表示 "虽然,尽管"; 其中, even though 的语气最强烈.
+    although,though,even though,while 都可以放在句子的开头 / 中间.
 -   though 作为副词使用时, 在口语中可以放在句末, 表示 "但是".
--   while 除了 "虽然、尽管" 还能表示 "但是".
+-   while 除了 "虽然,尽管" 还能表示 "但是".
 
 <br><br>
 
@@ -655,7 +655,7 @@ as 比较正式
     可以写成: Research shows that students are less keen on working part-time than they used to be.
     也可以写成: Research shows that students in the past are more keen on working part-time than students are now.
 
--   我们可以将 just、almost、nearly、quite 等副词放在 as ... as ... 结构中, 表示程度.
+-   我们可以将 just,almost,nearly,quite 等副词放在 as ... as ... 结构中, 表示程度.
     eg: I'm **just** as excited as you are. 我**完全**和你一样兴奋.
     eg: I'm **almost** as tall as you. 我和你**几乎**一样高.
     eg: I'm **quite** as good as you. 我和你**相当**好.
@@ -798,7 +798,7 @@ eg: Working in China is the greatest opportunity she's ever had in her life. 在
 
 <br><br>
 
-我们用**现在完成进行时**来谈论从过去开始、现在仍在持续中的动作:
+我们用**现在完成进行时**来谈论从过去开始,现在仍在持续中的动作:
 eg: I haven't been having dates recently. 我最近没有约会.
 
 当我们想表示某个动作从某个时间点开始的时候, 我们使用 **since**:
