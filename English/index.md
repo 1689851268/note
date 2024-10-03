@@ -855,3 +855,7 @@ She has never been nice to me. 她从来没有对我好过.
 -   be worth doing sth: 值得做某事
 
 <br><br>
+
+-   recall doing sth: 记起做过某事
+
+<br><br>
