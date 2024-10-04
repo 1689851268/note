@@ -859,3 +859,9 @@ She has never been nice to me. 她从来没有对我好过.
 -   recall doing sth: 记起做过某事
 
 <br><br>
+
+-   years of experience: 多年的经验
+
+-   be in the ... industry: 在...行业
+
+<br><br>
