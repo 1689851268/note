@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+    <head>
+        <meta charset="UTF-8" />
+        <style>
+            #container {
+                height: 200px;
+                overflow: auto;
+                border: 1px solid #ccc;
+            }
+            .content {
+                height: 800px;
+            }
+            #target {
+                margin-top: 600px;
+                padding: 20px;
+                background-color: #f0f0f0;
+                /* 在滚动元素中设置滚动外边距 */
+                scroll-margin: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <div class="content">
+                <div id="target">目标元素</div>
+            </div>
+        </div>
+        <button onclick="scrollToTarget();">滚动到目标元素</button>
+        <script>
+            function scrollToTarget() {
+                const targetElement = document.getElementById("target");
+                targetElement.scrollIntoView();
+            }
+        </script>
+    </body>
+</html>
